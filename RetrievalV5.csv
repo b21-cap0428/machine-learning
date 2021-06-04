@@ -1,0 +1,4744 @@
+userID,movieID,rating
+1,nasi goreng,5
+1,mie kuah,5
+1,nasi,5
+1,mie,5
+1,bakso,5
+1,bubur,5
+1,ayam,5
+1,kue,5
+1,buah,5
+1,roti,5
+1,jagung,5
+1,kacang,5
+1,tahu,5
+1,sate,5
+1,gorengan kering,5
+1,es krim,1
+1,ubi,1
+1,luar negeri,1
+1,gorengan basah,1
+1,berkuah,1
+1,cendol,5
+1,es campur,5
+1,bubble tea,5
+1,susu,5
+1,jus buah,5
+1,soft drink,1
+1,es doger,1
+1,teh,1
+1,kopi,1
+1,air mineral,1
+1,air kelapa,1
+2,nasi goreng,5
+2,mie kuah,1
+2,nasi,5
+2,mie,5
+2,bakso,5
+2,bubur,5
+2,ayam,1
+2,kue,1
+2,buah,1
+2,roti,5
+2,jagung,1
+2,kacang,1
+2,tahu,1
+2,sate,1
+2,gorengan kering,1
+2,es krim,1
+2,ubi,1
+2,luar negeri,1
+2,gorengan basah,1
+2,berkuah,1
+2,cendol,1
+2,es campur,1
+2,bubble tea,1
+2,susu,5
+2,jus buah,1
+2,soft drink,5
+2,es doger,1
+2,teh,1
+2,kopi,1
+2,air mineral,1
+2,air kelapa,1
+3,nasi goreng,5
+3,mie kuah,1
+3,nasi,1
+3,mie,5
+3,bakso,5
+3,bubur,5
+3,ayam,5
+3,kue,5
+3,buah,1
+3,roti,5
+3,jagung,1
+3,kacang,1
+3,tahu,5
+3,sate,1
+3,gorengan kering,5
+3,es krim,1
+3,ubi,1
+3,luar negeri,1
+3,gorengan basah,1
+3,berkuah,1
+3,cendol,5
+3,es campur,5
+3,bubble tea,5
+3,susu,5
+3,jus buah,5
+3,soft drink,5
+3,es doger,5
+3,teh,5
+3,kopi,1
+3,air mineral,1
+3,air kelapa,1
+4,nasi goreng,5
+4,mie kuah,1
+4,nasi,1
+4,mie,1
+4,bakso,1
+4,bubur,1
+4,ayam,5
+4,kue,1
+4,buah,1
+4,roti,1
+4,jagung,1
+4,kacang,1
+4,tahu,1
+4,sate,1
+4,gorengan kering,5
+4,es krim,1
+4,ubi,1
+4,luar negeri,1
+4,gorengan basah,1
+4,berkuah,1
+4,cendol,1
+4,es campur,1
+4,bubble tea,1
+4,susu,1
+4,jus buah,5
+4,soft drink,1
+4,es doger,1
+4,teh,5
+4,kopi,1
+4,air mineral,1
+4,air kelapa,1
+5,nasi goreng,5
+5,mie kuah,5
+5,nasi,5
+5,mie,5
+5,bakso,5
+5,bubur,5
+5,ayam,5
+5,kue,1
+5,buah,1
+5,roti,1
+5,jagung,1
+5,kacang,1
+5,tahu,1
+5,sate,5
+5,gorengan kering,1
+5,es krim,1
+5,ubi,1
+5,luar negeri,1
+5,gorengan basah,1
+5,berkuah,1
+5,cendol,5
+5,es campur,1
+5,bubble tea,1
+5,susu,5
+5,jus buah,1
+5,soft drink,5
+5,es doger,1
+5,teh,5
+5,kopi,1
+5,air mineral,1
+5,air kelapa,1
+6,nasi goreng,5
+6,mie kuah,5
+6,nasi,5
+6,mie,5
+6,bakso,5
+6,bubur,5
+6,ayam,5
+6,kue,5
+6,buah,5
+6,roti,5
+6,jagung,5
+6,kacang,5
+6,tahu,5
+6,sate,5
+6,gorengan kering,5
+6,es krim,5
+6,ubi,5
+6,luar negeri,5
+6,gorengan basah,1
+6,berkuah,1
+6,cendol,5
+6,es campur,5
+6,bubble tea,1
+6,susu,1
+6,jus buah,1
+6,soft drink,1
+6,es doger,5
+6,teh,1
+6,kopi,1
+6,air mineral,1
+6,air kelapa,1
+7,nasi goreng,5
+7,mie kuah,5
+7,nasi,5
+7,mie,5
+7,bakso,1
+7,bubur,1
+7,ayam,5
+7,kue,1
+7,buah,1
+7,roti,1
+7,jagung,1
+7,kacang,1
+7,tahu,1
+7,sate,5
+7,gorengan kering,5
+7,es krim,1
+7,ubi,1
+7,luar negeri,1
+7,gorengan basah,1
+7,berkuah,1
+7,cendol,1
+7,es campur,1
+7,bubble tea,1
+7,susu,5
+7,jus buah,1
+7,soft drink,1
+7,es doger,1
+7,teh,5
+7,kopi,5
+7,air mineral,1
+7,air kelapa,1
+8,nasi goreng,5
+8,mie kuah,1
+8,nasi,1
+8,mie,1
+8,bakso,5
+8,bubur,1
+8,ayam,1
+8,kue,5
+8,buah,1
+8,roti,1
+8,jagung,1
+8,kacang,1
+8,tahu,1
+8,sate,5
+8,gorengan kering,5
+8,es krim,1
+8,ubi,1
+8,luar negeri,1
+8,gorengan basah,1
+8,berkuah,1
+8,cendol,1
+8,es campur,1
+8,bubble tea,1
+8,susu,5
+8,jus buah,1
+8,soft drink,1
+8,es doger,5
+8,teh,1
+8,kopi,1
+8,air mineral,1
+8,air kelapa,1
+11,nasi goreng,5
+11,mie kuah,5
+11,nasi,1
+11,mie,1
+11,bakso,5
+11,bubur,5
+11,ayam,5
+11,kue,5
+11,buah,5
+11,roti,5
+11,jagung,1
+11,kacang,5
+11,tahu,5
+11,sate,5
+11,gorengan kering,5
+11,es krim,5
+11,ubi,1
+11,luar negeri,1
+11,gorengan basah,1
+11,berkuah,1
+11,cendol,1
+11,es campur,5
+11,bubble tea,1
+11,susu,5
+11,jus buah,5
+11,soft drink,1
+11,es doger,5
+11,teh,5
+11,kopi,5
+11,air mineral,1
+11,air kelapa,1
+12,nasi goreng,5
+12,mie kuah,5
+12,nasi,1
+12,mie,1
+12,bakso,5
+12,bubur,1
+12,ayam,1
+12,kue,5
+12,buah,1
+12,roti,5
+12,jagung,1
+12,kacang,1
+12,tahu,1
+12,sate,5
+12,gorengan kering,1
+12,es krim,1
+12,ubi,1
+12,luar negeri,1
+12,gorengan basah,1
+12,berkuah,1
+12,cendol,1
+12,es campur,1
+12,bubble tea,1
+12,susu,5
+12,jus buah,1
+12,soft drink,1
+12,es doger,1
+12,teh,5
+12,kopi,1
+12,air mineral,1
+12,air kelapa,1
+14,nasi goreng,5
+14,mie kuah,1
+14,nasi,1
+14,mie,1
+14,bakso,1
+14,bubur,5
+14,ayam,1
+14,kue,1
+14,buah,1
+14,roti,1
+14,jagung,1
+14,kacang,1
+14,tahu,1
+14,sate,5
+14,gorengan kering,1
+14,es krim,5
+14,ubi,1
+14,luar negeri,1
+14,gorengan basah,1
+14,berkuah,1
+14,cendol,1
+14,es campur,1
+14,bubble tea,1
+14,susu,5
+14,jus buah,1
+14,soft drink,1
+14,es doger,1
+14,teh,5
+14,kopi,1
+14,air mineral,1
+14,air kelapa,1
+17,nasi goreng,5
+17,mie kuah,1
+17,nasi,1
+17,mie,5
+17,bakso,5
+17,bubur,5
+17,ayam,1
+17,kue,1
+17,buah,1
+17,roti,1
+17,jagung,1
+17,kacang,1
+17,tahu,1
+17,sate,5
+17,gorengan kering,5
+17,es krim,5
+17,ubi,1
+17,luar negeri,1
+17,gorengan basah,1
+17,berkuah,1
+17,cendol,1
+17,es campur,1
+17,bubble tea,1
+17,susu,1
+17,jus buah,5
+17,soft drink,1
+17,es doger,5
+17,teh,1
+17,kopi,1
+17,air mineral,1
+17,air kelapa,1
+20,nasi goreng,1
+20,mie kuah,5
+20,nasi,1
+20,mie,5
+20,bakso,5
+20,bubur,5
+20,ayam,1
+20,kue,1
+20,buah,1
+20,roti,1
+20,jagung,1
+20,kacang,1
+20,tahu,1
+20,sate,5
+20,gorengan kering,1
+20,es krim,5
+20,ubi,1
+20,luar negeri,1
+20,gorengan basah,1
+20,berkuah,1
+20,cendol,1
+20,es campur,1
+20,bubble tea,5
+20,susu,1
+20,jus buah,5
+20,soft drink,5
+20,es doger,1
+20,teh,1
+20,kopi,1
+20,air mineral,1
+20,air kelapa,1
+22,nasi goreng,5
+22,mie kuah,5
+22,nasi,1
+22,mie,5
+22,bakso,1
+22,bubur,5
+22,ayam,5
+22,kue,1
+22,buah,1
+22,roti,1
+22,jagung,1
+22,kacang,1
+22,tahu,1
+22,sate,5
+22,gorengan kering,1
+22,es krim,1
+22,ubi,1
+22,luar negeri,1
+22,gorengan basah,1
+22,berkuah,1
+22,cendol,1
+22,es campur,1
+22,bubble tea,5
+22,susu,5
+22,jus buah,5
+22,soft drink,5
+22,es doger,1
+22,teh,1
+22,kopi,1
+22,air mineral,1
+22,air kelapa,1
+23,nasi goreng,5
+23,mie kuah,5
+23,nasi,5
+23,mie,5
+23,bakso,5
+23,bubur,5
+23,ayam,5
+23,kue,5
+23,buah,1
+23,roti,1
+23,jagung,1
+23,kacang,1
+23,tahu,1
+23,sate,5
+23,gorengan kering,5
+23,es krim,1
+23,ubi,1
+23,luar negeri,1
+23,gorengan basah,1
+23,berkuah,1
+23,cendol,1
+23,es campur,1
+23,bubble tea,5
+23,susu,5
+23,jus buah,5
+23,soft drink,1
+23,es doger,5
+23,teh,5
+23,kopi,5
+23,air mineral,1
+23,air kelapa,1
+24,nasi goreng,1
+24,mie kuah,1
+24,nasi,1
+24,mie,5
+24,bakso,5
+24,bubur,1
+24,ayam,1
+24,kue,5
+24,buah,1
+24,roti,1
+24,jagung,1
+24,kacang,1
+24,tahu,1
+24,sate,1
+24,gorengan kering,5
+24,es krim,5
+24,ubi,1
+24,luar negeri,1
+24,gorengan basah,1
+24,berkuah,1
+24,cendol,1
+24,es campur,1
+24,bubble tea,5
+24,susu,1
+24,jus buah,5
+24,soft drink,5
+24,es doger,1
+24,teh,1
+24,kopi,1
+24,air mineral,1
+24,air kelapa,1
+25,nasi goreng,5
+25,mie kuah,5
+25,nasi,5
+25,mie,5
+25,bakso,5
+25,bubur,5
+25,ayam,5
+25,kue,1
+25,buah,5
+25,roti,5
+25,jagung,5
+25,kacang,5
+25,tahu,5
+25,sate,5
+25,gorengan kering,5
+25,es krim,5
+25,ubi,5
+25,luar negeri,1
+25,gorengan basah,1
+25,berkuah,1
+25,cendol,5
+25,es campur,5
+25,bubble tea,5
+25,susu,5
+25,jus buah,5
+25,soft drink,5
+25,es doger,5
+25,teh,5
+25,kopi,5
+25,air mineral,1
+25,air kelapa,1
+26,nasi goreng,1
+26,mie kuah,1
+26,nasi,1
+26,mie,1
+26,bakso,1
+26,bubur,5
+26,ayam,5
+26,kue,5
+26,buah,5
+26,roti,1
+26,jagung,1
+26,kacang,1
+26,tahu,1
+26,sate,1
+26,gorengan kering,1
+26,es krim,1
+26,ubi,1
+26,luar negeri,1
+26,gorengan basah,1
+26,berkuah,1
+26,cendol,1
+26,es campur,5
+26,bubble tea,1
+26,susu,5
+26,jus buah,5
+26,soft drink,1
+26,es doger,1
+26,teh,1
+26,kopi,1
+26,air mineral,1
+26,air kelapa,1
+27,nasi goreng,1
+27,mie kuah,5
+27,nasi,5
+27,mie,5
+27,bakso,5
+27,bubur,1
+27,ayam,5
+27,kue,5
+27,buah,1
+27,roti,1
+27,jagung,1
+27,kacang,1
+27,tahu,5
+27,sate,5
+27,gorengan kering,5
+27,es krim,1
+27,ubi,1
+27,luar negeri,1
+27,gorengan basah,1
+27,berkuah,1
+27,cendol,1
+27,es campur,1
+27,bubble tea,1
+27,susu,5
+27,jus buah,1
+27,soft drink,1
+27,es doger,1
+27,teh,5
+27,kopi,1
+27,air mineral,1
+27,air kelapa,1
+28,nasi goreng,5
+28,mie kuah,1
+28,nasi,1
+28,mie,1
+28,bakso,1
+28,bubur,1
+28,ayam,1
+28,kue,5
+28,buah,1
+28,roti,5
+28,jagung,1
+28,kacang,1
+28,tahu,1
+28,sate,1
+28,gorengan kering,1
+28,es krim,1
+28,ubi,1
+28,luar negeri,1
+28,gorengan basah,1
+28,berkuah,1
+28,cendol,1
+28,es campur,5
+28,bubble tea,1
+28,susu,5
+28,jus buah,5
+28,soft drink,1
+28,es doger,1
+28,teh,1
+28,kopi,1
+28,air mineral,1
+28,air kelapa,1
+29,nasi goreng,5
+29,mie kuah,1
+29,nasi,1
+29,mie,1
+29,bakso,5
+29,bubur,1
+29,ayam,1
+29,kue,5
+29,buah,1
+29,roti,1
+29,jagung,1
+29,kacang,1
+29,tahu,1
+29,sate,1
+29,gorengan kering,1
+29,es krim,5
+29,ubi,1
+29,luar negeri,5
+29,gorengan basah,5
+29,berkuah,1
+29,cendol,1
+29,es campur,1
+29,bubble tea,1
+29,susu,1
+29,jus buah,5
+29,soft drink,5
+29,es doger,1
+29,teh,5
+29,kopi,1
+29,air mineral,1
+29,air kelapa,1
+30,nasi goreng,1
+30,mie kuah,1
+30,nasi,5
+30,mie,5
+30,bakso,1
+30,bubur,5
+30,ayam,5
+30,kue,1
+30,buah,1
+30,roti,1
+30,jagung,1
+30,kacang,1
+30,tahu,1
+30,sate,1
+30,gorengan kering,1
+30,es krim,1
+30,ubi,1
+30,luar negeri,1
+30,gorengan basah,1
+30,berkuah,1
+30,cendol,1
+30,es campur,1
+30,bubble tea,1
+30,susu,5
+30,jus buah,1
+30,soft drink,1
+30,es doger,1
+30,teh,5
+30,kopi,1
+30,air mineral,1
+30,air kelapa,1
+31,nasi goreng,1
+31,mie kuah,1
+31,nasi,1
+31,mie,1
+31,bakso,5
+31,bubur,1
+31,ayam,1
+31,kue,1
+31,buah,5
+31,roti,1
+31,jagung,1
+31,kacang,1
+31,tahu,1
+31,sate,1
+31,gorengan kering,5
+31,es krim,1
+31,ubi,1
+31,luar negeri,1
+31,gorengan basah,1
+31,berkuah,1
+31,cendol,1
+31,es campur,1
+31,bubble tea,1
+31,susu,1
+31,jus buah,5
+31,soft drink,5
+31,es doger,1
+31,teh,1
+31,kopi,1
+31,air mineral,1
+31,air kelapa,1
+32,nasi goreng,5
+32,mie kuah,1
+32,nasi,1
+32,mie,5
+32,bakso,5
+32,bubur,5
+32,ayam,5
+32,kue,5
+32,buah,1
+32,roti,5
+32,jagung,1
+32,kacang,1
+32,tahu,1
+32,sate,5
+32,gorengan kering,5
+32,es krim,1
+32,ubi,1
+32,luar negeri,1
+32,gorengan basah,1
+32,berkuah,1
+32,cendol,5
+32,es campur,1
+32,bubble tea,1
+32,susu,1
+32,jus buah,5
+32,soft drink,1
+32,es doger,1
+32,teh,5
+32,kopi,1
+32,air mineral,1
+32,air kelapa,1
+33,nasi goreng,5
+33,mie kuah,5
+33,nasi,1
+33,mie,1
+33,bakso,5
+33,bubur,5
+33,ayam,1
+33,kue,5
+33,buah,5
+33,roti,5
+33,jagung,1
+33,kacang,1
+33,tahu,5
+33,sate,5
+33,gorengan kering,5
+33,es krim,1
+33,ubi,5
+33,luar negeri,1
+33,gorengan basah,1
+33,berkuah,1
+33,cendol,5
+33,es campur,5
+33,bubble tea,1
+33,susu,5
+33,jus buah,5
+33,soft drink,1
+33,es doger,1
+33,teh,1
+33,kopi,1
+33,air mineral,1
+33,air kelapa,1
+34,nasi goreng,5
+34,mie kuah,1
+34,nasi,1
+34,mie,5
+34,bakso,5
+34,bubur,5
+34,ayam,5
+34,kue,5
+34,buah,5
+34,roti,1
+34,jagung,5
+34,kacang,1
+34,tahu,1
+34,sate,5
+34,gorengan kering,5
+34,es krim,5
+34,ubi,1
+34,luar negeri,1
+34,gorengan basah,1
+34,berkuah,1
+34,cendol,5
+34,es campur,1
+34,bubble tea,5
+34,susu,5
+34,jus buah,5
+34,soft drink,1
+34,es doger,1
+34,teh,1
+34,kopi,5
+34,air mineral,1
+34,air kelapa,1
+35,nasi goreng,5
+35,mie kuah,1
+35,nasi,1
+35,mie,1
+35,bakso,5
+35,bubur,5
+35,ayam,5
+35,kue,5
+35,buah,1
+35,roti,5
+35,jagung,1
+35,kacang,1
+35,tahu,1
+35,sate,5
+35,gorengan kering,5
+35,es krim,1
+35,ubi,5
+35,luar negeri,1
+35,gorengan basah,1
+35,berkuah,1
+35,cendol,5
+35,es campur,5
+35,bubble tea,1
+35,susu,1
+35,jus buah,5
+35,soft drink,1
+35,es doger,5
+35,teh,1
+35,kopi,1
+35,air mineral,1
+35,air kelapa,1
+36,nasi goreng,5
+36,mie kuah,5
+36,nasi,5
+36,mie,5
+36,bakso,5
+36,bubur,5
+36,ayam,5
+36,kue,1
+36,buah,5
+36,roti,5
+36,jagung,1
+36,kacang,1
+36,tahu,5
+36,sate,5
+36,gorengan kering,5
+36,es krim,5
+36,ubi,1
+36,luar negeri,1
+36,gorengan basah,1
+36,berkuah,1
+36,cendol,1
+36,es campur,1
+36,bubble tea,5
+36,susu,5
+36,jus buah,5
+36,soft drink,5
+36,es doger,1
+36,teh,1
+36,kopi,1
+36,air mineral,1
+36,air kelapa,1
+37,nasi goreng,1
+37,mie kuah,1
+37,nasi,1
+37,mie,5
+37,bakso,5
+37,bubur,1
+37,ayam,5
+37,kue,5
+37,buah,1
+37,roti,1
+37,jagung,5
+37,kacang,5
+37,tahu,1
+37,sate,5
+37,gorengan kering,1
+37,es krim,1
+37,ubi,1
+37,luar negeri,1
+37,gorengan basah,1
+37,berkuah,1
+37,cendol,5
+37,es campur,5
+37,bubble tea,1
+37,susu,1
+37,jus buah,5
+37,soft drink,1
+37,es doger,1
+37,teh,1
+37,kopi,1
+37,air mineral,1
+37,air kelapa,1
+38,nasi goreng,5
+38,mie kuah,1
+38,nasi,1
+38,mie,5
+38,bakso,5
+38,bubur,1
+38,ayam,1
+38,kue,1
+38,buah,1
+38,roti,1
+38,jagung,1
+38,kacang,1
+38,tahu,1
+38,sate,5
+38,gorengan kering,5
+38,es krim,1
+38,ubi,1
+38,luar negeri,1
+38,gorengan basah,1
+38,berkuah,1
+38,cendol,5
+38,es campur,1
+38,bubble tea,1
+38,susu,1
+38,jus buah,5
+38,soft drink,1
+38,es doger,1
+38,teh,1
+38,kopi,1
+38,air mineral,1
+38,air kelapa,1
+40,nasi goreng,1
+40,mie kuah,1
+40,nasi,1
+40,mie,5
+40,bakso,5
+40,bubur,5
+40,ayam,5
+40,kue,1
+40,buah,1
+40,roti,1
+40,jagung,1
+40,kacang,1
+40,tahu,1
+40,sate,1
+40,gorengan kering,5
+40,es krim,1
+40,ubi,1
+40,luar negeri,1
+40,gorengan basah,1
+40,berkuah,1
+40,cendol,5
+40,es campur,1
+40,bubble tea,1
+40,susu,5
+40,jus buah,1
+40,soft drink,5
+40,es doger,1
+40,teh,5
+40,kopi,1
+40,air mineral,1
+40,air kelapa,1
+41,nasi goreng,1
+41,mie kuah,1
+41,nasi,1
+41,mie,5
+41,bakso,5
+41,bubur,1
+41,ayam,1
+41,kue,1
+41,buah,5
+41,roti,1
+41,jagung,1
+41,kacang,1
+41,tahu,1
+41,sate,1
+41,gorengan kering,1
+41,es krim,1
+41,ubi,1
+41,luar negeri,1
+41,gorengan basah,1
+41,berkuah,1
+41,cendol,1
+41,es campur,1
+41,bubble tea,1
+41,susu,1
+41,jus buah,1
+41,soft drink,1
+41,es doger,1
+41,teh,5
+41,kopi,5
+41,air mineral,1
+41,air kelapa,1
+42,nasi goreng,5
+42,mie kuah,5
+42,nasi,5
+42,mie,5
+42,bakso,5
+42,bubur,5
+42,ayam,5
+42,kue,1
+42,buah,1
+42,roti,1
+42,jagung,1
+42,kacang,1
+42,tahu,1
+42,sate,5
+42,gorengan kering,5
+42,es krim,5
+42,ubi,1
+42,luar negeri,1
+42,gorengan basah,1
+42,berkuah,1
+42,cendol,5
+42,es campur,1
+42,bubble tea,5
+42,susu,5
+42,jus buah,5
+42,soft drink,5
+42,es doger,5
+42,teh,5
+42,kopi,5
+42,air mineral,1
+42,air kelapa,1
+43,nasi goreng,5
+43,mie kuah,1
+43,nasi,5
+43,mie,1
+43,bakso,5
+43,bubur,1
+43,ayam,1
+43,kue,1
+43,buah,1
+43,roti,1
+43,jagung,1
+43,kacang,1
+43,tahu,1
+43,sate,5
+43,gorengan kering,1
+43,es krim,1
+43,ubi,1
+43,luar negeri,1
+43,gorengan basah,1
+43,berkuah,1
+43,cendol,5
+43,es campur,5
+43,bubble tea,5
+43,susu,5
+43,jus buah,5
+43,soft drink,1
+43,es doger,1
+43,teh,1
+43,kopi,1
+43,air mineral,1
+43,air kelapa,1
+44,nasi goreng,5
+44,mie kuah,5
+44,nasi,1
+44,mie,5
+44,bakso,5
+44,bubur,5
+44,ayam,5
+44,kue,1
+44,buah,1
+44,roti,1
+44,jagung,1
+44,kacang,1
+44,tahu,1
+44,sate,1
+44,gorengan kering,1
+44,es krim,1
+44,ubi,1
+44,luar negeri,1
+44,gorengan basah,1
+44,berkuah,1
+44,cendol,5
+44,es campur,5
+44,bubble tea,1
+44,susu,1
+44,jus buah,5
+44,soft drink,1
+44,es doger,5
+44,teh,1
+44,kopi,1
+44,air mineral,1
+44,air kelapa,1
+46,nasi goreng,5
+46,mie kuah,1
+46,nasi,1
+46,mie,1
+46,bakso,5
+46,bubur,1
+46,ayam,1
+46,kue,1
+46,buah,1
+46,roti,1
+46,jagung,1
+46,kacang,1
+46,tahu,1
+46,sate,1
+46,gorengan kering,5
+46,es krim,1
+46,ubi,1
+46,luar negeri,1
+46,gorengan basah,1
+46,berkuah,1
+46,cendol,1
+46,es campur,1
+46,bubble tea,1
+46,susu,1
+46,jus buah,1
+46,soft drink,1
+46,es doger,1
+46,teh,5
+46,kopi,5
+46,air mineral,1
+46,air kelapa,1
+47,nasi goreng,5
+47,mie kuah,5
+47,nasi,1
+47,mie,5
+47,bakso,5
+47,bubur,5
+47,ayam,5
+47,kue,5
+47,buah,5
+47,roti,1
+47,jagung,1
+47,kacang,1
+47,tahu,1
+47,sate,1
+47,gorengan kering,5
+47,es krim,5
+47,ubi,1
+47,luar negeri,1
+47,gorengan basah,1
+47,berkuah,1
+47,cendol,1
+47,es campur,5
+47,bubble tea,1
+47,susu,5
+47,jus buah,5
+47,soft drink,5
+47,es doger,1
+47,teh,5
+47,kopi,5
+47,air mineral,1
+47,air kelapa,1
+48,nasi goreng,5
+48,mie kuah,1
+48,nasi,1
+48,mie,5
+48,bakso,5
+48,bubur,5
+48,ayam,5
+48,kue,5
+48,buah,1
+48,roti,1
+48,jagung,1
+48,kacang,1
+48,tahu,1
+48,sate,5
+48,gorengan kering,1
+48,es krim,1
+48,ubi,1
+48,luar negeri,1
+48,gorengan basah,1
+48,berkuah,1
+48,cendol,5
+48,es campur,5
+48,bubble tea,1
+48,susu,5
+48,jus buah,5
+48,soft drink,5
+48,es doger,5
+48,teh,5
+48,kopi,5
+48,air mineral,1
+48,air kelapa,1
+51,nasi goreng,1
+51,mie kuah,1
+51,nasi,1
+51,mie,5
+51,bakso,5
+51,bubur,5
+51,ayam,5
+51,kue,5
+51,buah,1
+51,roti,5
+51,jagung,1
+51,kacang,1
+51,tahu,5
+51,sate,5
+51,gorengan kering,5
+51,es krim,5
+51,ubi,1
+51,luar negeri,1
+51,gorengan basah,1
+51,berkuah,1
+51,cendol,5
+51,es campur,5
+51,bubble tea,5
+51,susu,5
+51,jus buah,5
+51,soft drink,1
+51,es doger,5
+51,teh,5
+51,kopi,1
+51,air mineral,1
+51,air kelapa,1
+52,nasi goreng,5
+52,mie kuah,1
+52,nasi,1
+52,mie,1
+52,bakso,5
+52,bubur,5
+52,ayam,5
+52,kue,5
+52,buah,5
+52,roti,5
+52,jagung,5
+52,kacang,5
+52,tahu,5
+52,sate,5
+52,gorengan kering,5
+52,es krim,5
+52,ubi,5
+52,luar negeri,1
+52,gorengan basah,1
+52,berkuah,1
+52,cendol,5
+52,es campur,1
+52,bubble tea,1
+52,susu,1
+52,jus buah,1
+52,soft drink,1
+52,es doger,1
+52,teh,5
+52,kopi,1
+52,air mineral,1
+52,air kelapa,1
+54,nasi goreng,5
+54,mie kuah,1
+54,nasi,5
+54,mie,5
+54,bakso,5
+54,bubur,1
+54,ayam,5
+54,kue,1
+54,buah,5
+54,roti,5
+54,jagung,1
+54,kacang,1
+54,tahu,1
+54,sate,5
+54,gorengan kering,1
+54,es krim,5
+54,ubi,1
+54,luar negeri,1
+54,gorengan basah,5
+54,berkuah,1
+54,cendol,1
+54,es campur,5
+54,bubble tea,1
+54,susu,5
+54,jus buah,5
+54,soft drink,1
+54,es doger,5
+54,teh,5
+54,kopi,1
+54,air mineral,1
+54,air kelapa,1
+55,nasi goreng,1
+55,mie kuah,5
+55,nasi,1
+55,mie,5
+55,bakso,5
+55,bubur,5
+55,ayam,1
+55,kue,5
+55,buah,1
+55,roti,1
+55,jagung,1
+55,kacang,1
+55,tahu,1
+55,sate,5
+55,gorengan kering,5
+55,es krim,5
+55,ubi,1
+55,luar negeri,1
+55,gorengan basah,1
+55,berkuah,1
+55,cendol,5
+55,es campur,5
+55,bubble tea,5
+55,susu,5
+55,jus buah,5
+55,soft drink,1
+55,es doger,1
+55,teh,5
+55,kopi,5
+55,air mineral,1
+55,air kelapa,1
+56,nasi goreng,5
+56,mie kuah,5
+56,nasi,5
+56,mie,5
+56,bakso,5
+56,bubur,5
+56,ayam,5
+56,kue,1
+56,buah,1
+56,roti,5
+56,jagung,1
+56,kacang,1
+56,tahu,1
+56,sate,5
+56,gorengan kering,1
+56,es krim,1
+56,ubi,1
+56,luar negeri,1
+56,gorengan basah,1
+56,berkuah,1
+56,cendol,1
+56,es campur,5
+56,bubble tea,1
+56,susu,5
+56,jus buah,5
+56,soft drink,1
+56,es doger,1
+56,teh,5
+56,kopi,1
+56,air mineral,1
+56,air kelapa,1
+57,nasi goreng,5
+57,mie kuah,5
+57,nasi,5
+57,mie,5
+57,bakso,5
+57,bubur,5
+57,ayam,5
+57,kue,1
+57,buah,5
+57,roti,1
+57,jagung,1
+57,kacang,1
+57,tahu,1
+57,sate,5
+57,gorengan kering,1
+57,es krim,5
+57,ubi,1
+57,luar negeri,5
+57,gorengan basah,1
+57,berkuah,1
+57,cendol,1
+57,es campur,1
+57,bubble tea,1
+57,susu,5
+57,jus buah,5
+57,soft drink,1
+57,es doger,1
+57,teh,1
+57,kopi,1
+57,air mineral,1
+57,air kelapa,1
+58,nasi goreng,5
+58,mie kuah,1
+58,nasi,1
+58,mie,1
+58,bakso,1
+58,bubur,1
+58,ayam,5
+58,kue,1
+58,buah,1
+58,roti,1
+58,jagung,1
+58,kacang,1
+58,tahu,1
+58,sate,5
+58,gorengan kering,5
+58,es krim,1
+58,ubi,1
+58,luar negeri,1
+58,gorengan basah,1
+58,berkuah,1
+58,cendol,1
+58,es campur,1
+58,bubble tea,1
+58,susu,5
+58,jus buah,5
+58,soft drink,1
+58,es doger,5
+58,teh,1
+58,kopi,1
+58,air mineral,1
+58,air kelapa,1
+61,nasi goreng,1
+61,mie kuah,1
+61,nasi,5
+61,mie,5
+61,bakso,5
+61,bubur,1
+61,ayam,1
+61,kue,1
+61,buah,1
+61,roti,1
+61,jagung,1
+61,kacang,1
+61,tahu,1
+61,sate,1
+61,gorengan kering,5
+61,es krim,1
+61,ubi,1
+61,luar negeri,1
+61,gorengan basah,1
+61,berkuah,1
+61,cendol,5
+61,es campur,1
+61,bubble tea,1
+61,susu,1
+61,jus buah,1
+61,soft drink,1
+61,es doger,5
+61,teh,1
+61,kopi,1
+61,air mineral,1
+61,air kelapa,1
+62,nasi goreng,5
+62,mie kuah,5
+62,nasi,1
+62,mie,5
+62,bakso,5
+62,bubur,1
+62,ayam,1
+62,kue,1
+62,buah,1
+62,roti,1
+62,jagung,1
+62,kacang,1
+62,tahu,5
+62,sate,5
+62,gorengan kering,1
+62,es krim,1
+62,ubi,1
+62,luar negeri,1
+62,gorengan basah,1
+62,berkuah,1
+62,cendol,5
+62,es campur,5
+62,bubble tea,5
+62,susu,5
+62,jus buah,5
+62,soft drink,1
+62,es doger,5
+62,teh,5
+62,kopi,5
+62,air mineral,1
+62,air kelapa,1
+64,nasi goreng,5
+64,mie kuah,5
+64,nasi,1
+64,mie,1
+64,bakso,1
+64,bubur,1
+64,ayam,1
+64,kue,1
+64,buah,1
+64,roti,1
+64,jagung,1
+64,kacang,1
+64,tahu,1
+64,sate,1
+64,gorengan kering,1
+64,es krim,1
+64,ubi,1
+64,luar negeri,5
+64,gorengan basah,1
+64,berkuah,1
+64,cendol,5
+64,es campur,5
+64,bubble tea,1
+64,susu,1
+64,jus buah,1
+64,soft drink,1
+64,es doger,1
+64,teh,5
+64,kopi,1
+64,air mineral,1
+64,air kelapa,1
+65,nasi goreng,1
+65,mie kuah,5
+65,nasi,1
+65,mie,5
+65,bakso,1
+65,bubur,5
+65,ayam,5
+65,kue,1
+65,buah,1
+65,roti,5
+65,jagung,1
+65,kacang,1
+65,tahu,1
+65,sate,5
+65,gorengan kering,1
+65,es krim,5
+65,ubi,5
+65,luar negeri,1
+65,gorengan basah,1
+65,berkuah,1
+65,cendol,1
+65,es campur,1
+65,bubble tea,5
+65,susu,5
+65,jus buah,5
+65,soft drink,5
+65,es doger,1
+65,teh,1
+65,kopi,1
+65,air mineral,1
+65,air kelapa,1
+66,nasi goreng,1
+66,mie kuah,1
+66,nasi,1
+66,mie,5
+66,bakso,5
+66,bubur,5
+66,ayam,5
+66,kue,5
+66,buah,1
+66,roti,5
+66,jagung,1
+66,kacang,1
+66,tahu,5
+66,sate,5
+66,gorengan kering,5
+66,es krim,1
+66,ubi,1
+66,luar negeri,1
+66,gorengan basah,1
+66,berkuah,1
+66,cendol,5
+66,es campur,5
+66,bubble tea,5
+66,susu,1
+66,jus buah,5
+66,soft drink,1
+66,es doger,5
+66,teh,5
+66,kopi,1
+66,air mineral,1
+66,air kelapa,1
+67,nasi goreng,5
+67,mie kuah,1
+67,nasi,1
+67,mie,1
+67,bakso,5
+67,bubur,5
+67,ayam,5
+67,kue,1
+67,buah,1
+67,roti,1
+67,jagung,1
+67,kacang,1
+67,tahu,1
+67,sate,5
+67,gorengan kering,1
+67,es krim,1
+67,ubi,1
+67,luar negeri,1
+67,gorengan basah,1
+67,berkuah,1
+67,cendol,1
+67,es campur,5
+67,bubble tea,1
+67,susu,1
+67,jus buah,1
+67,soft drink,1
+67,es doger,5
+67,teh,1
+67,kopi,1
+67,air mineral,1
+67,air kelapa,1
+69,nasi goreng,5
+69,mie kuah,5
+69,nasi,5
+69,mie,5
+69,bakso,5
+69,bubur,5
+69,ayam,5
+69,kue,5
+69,buah,1
+69,roti,5
+69,jagung,1
+69,kacang,1
+69,tahu,1
+69,sate,5
+69,gorengan kering,1
+69,es krim,5
+69,ubi,1
+69,luar negeri,5
+69,gorengan basah,1
+69,berkuah,1
+69,cendol,1
+69,es campur,5
+69,bubble tea,5
+69,susu,5
+69,jus buah,1
+69,soft drink,1
+69,es doger,1
+69,teh,5
+69,kopi,5
+69,air mineral,1
+69,air kelapa,1
+70,nasi goreng,5
+70,mie kuah,1
+70,nasi,1
+70,mie,1
+70,bakso,5
+70,bubur,5
+70,ayam,5
+70,kue,1
+70,buah,5
+70,roti,5
+70,jagung,1
+70,kacang,1
+70,tahu,1
+70,sate,5
+70,gorengan kering,5
+70,es krim,5
+70,ubi,1
+70,luar negeri,1
+70,gorengan basah,1
+70,berkuah,1
+70,cendol,5
+70,es campur,5
+70,bubble tea,1
+70,susu,1
+70,jus buah,5
+70,soft drink,5
+70,es doger,1
+70,teh,5
+70,kopi,5
+70,air mineral,1
+70,air kelapa,1
+71,nasi goreng,5
+71,mie kuah,5
+71,nasi,5
+71,mie,5
+71,bakso,5
+71,bubur,5
+71,ayam,5
+71,kue,5
+71,buah,5
+71,roti,5
+71,jagung,5
+71,kacang,5
+71,tahu,5
+71,sate,5
+71,gorengan kering,5
+71,es krim,5
+71,ubi,5
+71,luar negeri,1
+71,gorengan basah,1
+71,berkuah,1
+71,cendol,5
+71,es campur,5
+71,bubble tea,5
+71,susu,5
+71,jus buah,5
+71,soft drink,5
+71,es doger,5
+71,teh,5
+71,kopi,1
+71,air mineral,1
+71,air kelapa,1
+74,nasi goreng,5
+74,mie kuah,1
+74,nasi,1
+74,mie,1
+74,bakso,5
+74,bubur,5
+74,ayam,1
+74,kue,5
+74,buah,1
+74,roti,5
+74,jagung,1
+74,kacang,1
+74,tahu,1
+74,sate,5
+74,gorengan kering,1
+74,es krim,1
+74,ubi,1
+74,luar negeri,1
+74,gorengan basah,1
+74,berkuah,1
+74,cendol,5
+74,es campur,5
+74,bubble tea,1
+74,susu,1
+74,jus buah,5
+74,soft drink,1
+74,es doger,1
+74,teh,1
+74,kopi,5
+74,air mineral,1
+74,air kelapa,1
+75,nasi goreng,5
+75,mie kuah,1
+75,nasi,1
+75,mie,5
+75,bakso,1
+75,bubur,1
+75,ayam,5
+75,kue,1
+75,buah,1
+75,roti,1
+75,jagung,1
+75,kacang,1
+75,tahu,1
+75,sate,5
+75,gorengan kering,1
+75,es krim,1
+75,ubi,1
+75,luar negeri,1
+75,gorengan basah,1
+75,berkuah,1
+75,cendol,5
+75,es campur,1
+75,bubble tea,1
+75,susu,5
+75,jus buah,1
+75,soft drink,1
+75,es doger,1
+75,teh,1
+75,kopi,1
+75,air mineral,1
+75,air kelapa,1
+76,nasi goreng,1
+76,mie kuah,1
+76,nasi,5
+76,mie,5
+76,bakso,5
+76,bubur,5
+76,ayam,5
+76,kue,5
+76,buah,5
+76,roti,5
+76,jagung,1
+76,kacang,1
+76,tahu,1
+76,sate,5
+76,gorengan kering,5
+76,es krim,5
+76,ubi,1
+76,luar negeri,1
+76,gorengan basah,1
+76,berkuah,1
+76,cendol,5
+76,es campur,5
+76,bubble tea,1
+76,susu,1
+76,jus buah,5
+76,soft drink,1
+76,es doger,1
+76,teh,1
+76,kopi,1
+76,air mineral,1
+76,air kelapa,1
+77,nasi goreng,1
+77,mie kuah,1
+77,nasi,1
+77,mie,1
+77,bakso,5
+77,bubur,1
+77,ayam,1
+77,kue,5
+77,buah,1
+77,roti,1
+77,jagung,1
+77,kacang,1
+77,tahu,1
+77,sate,1
+77,gorengan kering,5
+77,es krim,1
+77,ubi,1
+77,luar negeri,1
+77,gorengan basah,1
+77,berkuah,1
+77,cendol,1
+77,es campur,5
+77,bubble tea,5
+77,susu,1
+77,jus buah,5
+77,soft drink,1
+77,es doger,1
+77,teh,1
+77,kopi,1
+77,air mineral,1
+77,air kelapa,1
+78,nasi goreng,5
+78,mie kuah,1
+78,nasi,5
+78,mie,5
+78,bakso,5
+78,bubur,5
+78,ayam,1
+78,kue,1
+78,buah,1
+78,roti,5
+78,jagung,1
+78,kacang,1
+78,tahu,5
+78,sate,5
+78,gorengan kering,5
+78,es krim,5
+78,ubi,1
+78,luar negeri,1
+78,gorengan basah,1
+78,berkuah,1
+78,cendol,1
+78,es campur,1
+78,bubble tea,1
+78,susu,1
+78,jus buah,1
+78,soft drink,5
+78,es doger,1
+78,teh,5
+78,kopi,1
+78,air mineral,1
+78,air kelapa,1
+79,nasi goreng,5
+79,mie kuah,5
+79,nasi,1
+79,mie,1
+79,bakso,5
+79,bubur,1
+79,ayam,1
+79,kue,1
+79,buah,1
+79,roti,1
+79,jagung,1
+79,kacang,1
+79,tahu,1
+79,sate,5
+79,gorengan kering,5
+79,es krim,1
+79,ubi,1
+79,luar negeri,1
+79,gorengan basah,1
+79,berkuah,1
+79,cendol,5
+79,es campur,5
+79,bubble tea,1
+79,susu,1
+79,jus buah,1
+79,soft drink,1
+79,es doger,1
+79,teh,5
+79,kopi,1
+79,air mineral,1
+79,air kelapa,1
+80,nasi goreng,1
+80,mie kuah,1
+80,nasi,5
+80,mie,5
+80,bakso,5
+80,bubur,1
+80,ayam,1
+80,kue,5
+80,buah,1
+80,roti,1
+80,jagung,5
+80,kacang,1
+80,tahu,5
+80,sate,5
+80,gorengan kering,5
+80,es krim,1
+80,ubi,1
+80,luar negeri,1
+80,gorengan basah,1
+80,berkuah,1
+80,cendol,1
+80,es campur,5
+80,bubble tea,1
+80,susu,1
+80,jus buah,5
+80,soft drink,1
+80,es doger,1
+80,teh,1
+80,kopi,5
+80,air mineral,1
+80,air kelapa,1
+82,nasi goreng,5
+82,mie kuah,5
+82,nasi,1
+82,mie,1
+82,bakso,5
+82,bubur,5
+82,ayam,5
+82,kue,5
+82,buah,1
+82,roti,5
+82,jagung,1
+82,kacang,1
+82,tahu,1
+82,sate,5
+82,gorengan kering,5
+82,es krim,5
+82,ubi,1
+82,luar negeri,1
+82,gorengan basah,1
+82,berkuah,1
+82,cendol,5
+82,es campur,5
+82,bubble tea,5
+82,susu,5
+82,jus buah,5
+82,soft drink,1
+82,es doger,5
+82,teh,5
+82,kopi,1
+82,air mineral,1
+82,air kelapa,1
+83,nasi goreng,1
+83,mie kuah,1
+83,nasi,1
+83,mie,5
+83,bakso,5
+83,bubur,1
+83,ayam,5
+83,kue,5
+83,buah,1
+83,roti,5
+83,jagung,1
+83,kacang,1
+83,tahu,1
+83,sate,1
+83,gorengan kering,5
+83,es krim,1
+83,ubi,1
+83,luar negeri,1
+83,gorengan basah,1
+83,berkuah,1
+83,cendol,1
+83,es campur,1
+83,bubble tea,1
+83,susu,1
+83,jus buah,1
+83,soft drink,5
+83,es doger,1
+83,teh,5
+83,kopi,5
+83,air mineral,1
+83,air kelapa,1
+84,nasi goreng,5
+84,mie kuah,5
+84,nasi,1
+84,mie,1
+84,bakso,5
+84,bubur,1
+84,ayam,1
+84,kue,1
+84,buah,1
+84,roti,1
+84,jagung,1
+84,kacang,1
+84,tahu,1
+84,sate,1
+84,gorengan kering,1
+84,es krim,1
+84,ubi,1
+84,luar negeri,1
+84,gorengan basah,1
+84,berkuah,1
+84,cendol,1
+84,es campur,5
+84,bubble tea,1
+84,susu,1
+84,jus buah,1
+84,soft drink,1
+84,es doger,1
+84,teh,1
+84,kopi,5
+84,air mineral,1
+84,air kelapa,1
+85,nasi goreng,5
+85,mie kuah,1
+85,nasi,1
+85,mie,1
+85,bakso,5
+85,bubur,1
+85,ayam,1
+85,kue,5
+85,buah,1
+85,roti,1
+85,jagung,1
+85,kacang,1
+85,tahu,5
+85,sate,1
+85,gorengan kering,5
+85,es krim,1
+85,ubi,1
+85,luar negeri,1
+85,gorengan basah,1
+85,berkuah,1
+85,cendol,1
+85,es campur,1
+85,bubble tea,5
+85,susu,5
+85,jus buah,5
+85,soft drink,1
+85,es doger,1
+85,teh,1
+85,kopi,1
+85,air mineral,1
+85,air kelapa,1
+86,nasi goreng,5
+86,mie kuah,1
+86,nasi,1
+86,mie,5
+86,bakso,5
+86,bubur,1
+86,ayam,5
+86,kue,1
+86,buah,1
+86,roti,1
+86,jagung,1
+86,kacang,1
+86,tahu,1
+86,sate,1
+86,gorengan kering,5
+86,es krim,1
+86,ubi,1
+86,luar negeri,1
+86,gorengan basah,1
+86,berkuah,1
+86,cendol,1
+86,es campur,1
+86,bubble tea,1
+86,susu,5
+86,jus buah,5
+86,soft drink,1
+86,es doger,1
+86,teh,5
+86,kopi,1
+86,air mineral,1
+86,air kelapa,1
+87,nasi goreng,5
+87,mie kuah,1
+87,nasi,1
+87,mie,5
+87,bakso,5
+87,bubur,1
+87,ayam,1
+87,kue,1
+87,buah,1
+87,roti,1
+87,jagung,1
+87,kacang,1
+87,tahu,1
+87,sate,1
+87,gorengan kering,5
+87,es krim,1
+87,ubi,1
+87,luar negeri,1
+87,gorengan basah,1
+87,berkuah,1
+87,cendol,5
+87,es campur,1
+87,bubble tea,1
+87,susu,1
+87,jus buah,1
+87,soft drink,5
+87,es doger,1
+87,teh,1
+87,kopi,5
+87,air mineral,1
+87,air kelapa,1
+88,nasi goreng,5
+88,mie kuah,1
+88,nasi,1
+88,mie,5
+88,bakso,5
+88,bubur,1
+88,ayam,1
+88,kue,1
+88,buah,1
+88,roti,1
+88,jagung,1
+88,kacang,1
+88,tahu,1
+88,sate,1
+88,gorengan kering,5
+88,es krim,1
+88,ubi,1
+88,luar negeri,1
+88,gorengan basah,1
+88,berkuah,1
+88,cendol,1
+88,es campur,1
+88,bubble tea,5
+88,susu,5
+88,jus buah,5
+88,soft drink,1
+88,es doger,1
+88,teh,1
+88,kopi,1
+88,air mineral,1
+88,air kelapa,1
+89,nasi goreng,5
+89,mie kuah,5
+89,nasi,1
+89,mie,5
+89,bakso,5
+89,bubur,5
+89,ayam,5
+89,kue,1
+89,buah,1
+89,roti,1
+89,jagung,5
+89,kacang,1
+89,tahu,5
+89,sate,1
+89,gorengan kering,5
+89,es krim,5
+89,ubi,1
+89,luar negeri,1
+89,gorengan basah,1
+89,berkuah,1
+89,cendol,1
+89,es campur,1
+89,bubble tea,5
+89,susu,1
+89,jus buah,1
+89,soft drink,5
+89,es doger,5
+89,teh,1
+89,kopi,5
+89,air mineral,1
+89,air kelapa,1
+90,nasi goreng,5
+90,mie kuah,1
+90,nasi,1
+90,mie,1
+90,bakso,5
+90,bubur,5
+90,ayam,1
+90,kue,1
+90,buah,1
+90,roti,1
+90,jagung,1
+90,kacang,1
+90,tahu,1
+90,sate,5
+90,gorengan kering,5
+90,es krim,1
+90,ubi,1
+90,luar negeri,1
+90,gorengan basah,1
+90,berkuah,1
+90,cendol,5
+90,es campur,1
+90,bubble tea,1
+90,susu,1
+90,jus buah,1
+90,soft drink,1
+90,es doger,1
+90,teh,5
+90,kopi,1
+90,air mineral,1
+90,air kelapa,1
+91,nasi goreng,5
+91,mie kuah,1
+91,nasi,1
+91,mie,5
+91,bakso,5
+91,bubur,5
+91,ayam,1
+91,kue,1
+91,buah,1
+91,roti,1
+91,jagung,1
+91,kacang,1
+91,tahu,1
+91,sate,1
+91,gorengan kering,5
+91,es krim,1
+91,ubi,1
+91,luar negeri,1
+91,gorengan basah,5
+91,berkuah,1
+91,cendol,1
+91,es campur,5
+91,bubble tea,5
+91,susu,1
+91,jus buah,5
+91,soft drink,5
+91,es doger,5
+91,teh,5
+91,kopi,1
+91,air mineral,1
+91,air kelapa,1
+92,nasi goreng,1
+92,mie kuah,1
+92,nasi,1
+92,mie,5
+92,bakso,5
+92,bubur,1
+92,ayam,1
+92,kue,1
+92,buah,1
+92,roti,1
+92,jagung,1
+92,kacang,1
+92,tahu,1
+92,sate,1
+92,gorengan kering,1
+92,es krim,1
+92,ubi,1
+92,luar negeri,5
+92,gorengan basah,1
+92,berkuah,1
+92,cendol,5
+92,es campur,1
+92,bubble tea,1
+92,susu,1
+92,jus buah,1
+92,soft drink,1
+92,es doger,1
+92,teh,5
+92,kopi,1
+92,air mineral,1
+92,air kelapa,1
+93,nasi goreng,5
+93,mie kuah,5
+93,nasi,1
+93,mie,1
+93,bakso,5
+93,bubur,5
+93,ayam,5
+93,kue,1
+93,buah,1
+93,roti,1
+93,jagung,1
+93,kacang,1
+93,tahu,1
+93,sate,5
+93,gorengan kering,5
+93,es krim,1
+93,ubi,1
+93,luar negeri,1
+93,gorengan basah,1
+93,berkuah,1
+93,cendol,1
+93,es campur,1
+93,bubble tea,5
+93,susu,5
+93,jus buah,5
+93,soft drink,5
+93,es doger,1
+93,teh,1
+93,kopi,1
+93,air mineral,1
+93,air kelapa,1
+94,nasi goreng,5
+94,mie kuah,5
+94,nasi,5
+94,mie,5
+94,bakso,5
+94,bubur,1
+94,ayam,5
+94,kue,1
+94,buah,1
+94,roti,5
+94,jagung,5
+94,kacang,5
+94,tahu,5
+94,sate,5
+94,gorengan kering,5
+94,es krim,5
+94,ubi,5
+94,luar negeri,1
+94,gorengan basah,1
+94,berkuah,1
+94,cendol,5
+94,es campur,5
+94,bubble tea,5
+94,susu,5
+94,jus buah,5
+94,soft drink,5
+94,es doger,5
+94,teh,5
+94,kopi,5
+94,air mineral,1
+94,air kelapa,1
+95,nasi goreng,5
+95,mie kuah,5
+95,nasi,5
+95,mie,5
+95,bakso,5
+95,bubur,1
+95,ayam,5
+95,kue,1
+95,buah,1
+95,roti,1
+95,jagung,1
+95,kacang,1
+95,tahu,1
+95,sate,1
+95,gorengan kering,1
+95,es krim,1
+95,ubi,1
+95,luar negeri,1
+95,gorengan basah,1
+95,berkuah,1
+95,cendol,1
+95,es campur,5
+95,bubble tea,5
+95,susu,5
+95,jus buah,1
+95,soft drink,1
+95,es doger,1
+95,teh,1
+95,kopi,1
+95,air mineral,1
+95,air kelapa,1
+96,nasi goreng,5
+96,mie kuah,1
+96,nasi,1
+96,mie,5
+96,bakso,5
+96,bubur,1
+96,ayam,5
+96,kue,1
+96,buah,1
+96,roti,1
+96,jagung,1
+96,kacang,1
+96,tahu,1
+96,sate,5
+96,gorengan kering,1
+96,es krim,1
+96,ubi,1
+96,luar negeri,1
+96,gorengan basah,1
+96,berkuah,1
+96,cendol,1
+96,es campur,5
+96,bubble tea,1
+96,susu,5
+96,jus buah,5
+96,soft drink,1
+96,es doger,5
+96,teh,5
+96,kopi,1
+96,air mineral,1
+96,air kelapa,1
+97,nasi goreng,1
+97,mie kuah,1
+97,nasi,1
+97,mie,1
+97,bakso,1
+97,bubur,1
+97,ayam,5
+97,kue,1
+97,buah,1
+97,roti,5
+97,jagung,1
+97,kacang,1
+97,tahu,5
+97,sate,1
+97,gorengan kering,5
+97,es krim,1
+97,ubi,1
+97,luar negeri,1
+97,gorengan basah,1
+97,berkuah,1
+97,cendol,1
+97,es campur,1
+97,bubble tea,1
+97,susu,5
+97,jus buah,1
+97,soft drink,1
+97,es doger,1
+97,teh,1
+97,kopi,5
+97,air mineral,1
+97,air kelapa,1
+100,nasi goreng,5
+100,mie kuah,1
+100,nasi,1
+100,mie,1
+100,bakso,5
+100,bubur,1
+100,ayam,1
+100,kue,1
+100,buah,1
+100,roti,1
+100,jagung,1
+100,kacang,1
+100,tahu,1
+100,sate,1
+100,gorengan kering,5
+100,es krim,1
+100,ubi,1
+100,luar negeri,1
+100,gorengan basah,1
+100,berkuah,1
+100,cendol,5
+100,es campur,5
+100,bubble tea,5
+100,susu,1
+100,jus buah,1
+100,soft drink,1
+100,es doger,5
+100,teh,1
+100,kopi,1
+100,air mineral,1
+100,air kelapa,1
+101,nasi goreng,5
+101,mie kuah,1
+101,nasi,1
+101,mie,1
+101,bakso,5
+101,bubur,5
+101,ayam,5
+101,kue,5
+101,buah,1
+101,roti,1
+101,jagung,1
+101,kacang,1
+101,tahu,5
+101,sate,5
+101,gorengan kering,1
+101,es krim,5
+101,ubi,5
+101,luar negeri,1
+101,gorengan basah,1
+101,berkuah,1
+101,cendol,5
+101,es campur,1
+101,bubble tea,1
+101,susu,1
+101,jus buah,1
+101,soft drink,1
+101,es doger,1
+101,teh,1
+101,kopi,1
+101,air mineral,5
+101,air kelapa,1
+102,nasi goreng,5
+102,mie kuah,1
+102,nasi,1
+102,mie,1
+102,bakso,5
+102,bubur,1
+102,ayam,1
+102,kue,5
+102,buah,5
+102,roti,5
+102,jagung,1
+102,kacang,1
+102,tahu,5
+102,sate,5
+102,gorengan kering,1
+102,es krim,1
+102,ubi,1
+102,luar negeri,1
+102,gorengan basah,1
+102,berkuah,1
+102,cendol,5
+102,es campur,5
+102,bubble tea,1
+102,susu,1
+102,jus buah,1
+102,soft drink,1
+102,es doger,5
+102,teh,1
+102,kopi,1
+102,air mineral,1
+102,air kelapa,1
+103,nasi goreng,5
+103,mie kuah,1
+103,nasi,1
+103,mie,5
+103,bakso,5
+103,bubur,1
+103,ayam,1
+103,kue,5
+103,buah,1
+103,roti,1
+103,jagung,1
+103,kacang,1
+103,tahu,1
+103,sate,1
+103,gorengan kering,1
+103,es krim,1
+103,ubi,1
+103,luar negeri,1
+103,gorengan basah,1
+103,berkuah,1
+103,cendol,5
+103,es campur,5
+103,bubble tea,1
+103,susu,1
+103,jus buah,1
+103,soft drink,1
+103,es doger,1
+103,teh,1
+103,kopi,1
+103,air mineral,1
+103,air kelapa,5
+104,nasi goreng,5
+104,mie kuah,5
+104,nasi,5
+104,mie,5
+104,bakso,5
+104,bubur,5
+104,ayam,1
+104,kue,5
+104,buah,5
+104,roti,5
+104,jagung,5
+104,kacang,5
+104,tahu,1
+104,sate,1
+104,gorengan kering,1
+104,es krim,1
+104,ubi,5
+104,luar negeri,1
+104,gorengan basah,1
+104,berkuah,1
+104,cendol,5
+104,es campur,5
+104,bubble tea,5
+104,susu,5
+104,jus buah,5
+104,soft drink,1
+104,es doger,1
+104,teh,1
+104,kopi,1
+104,air mineral,1
+104,air kelapa,1
+105,nasi goreng,5
+105,mie kuah,1
+105,nasi,5
+105,mie,1
+105,bakso,5
+105,bubur,5
+105,ayam,1
+105,kue,1
+105,buah,1
+105,roti,1
+105,jagung,1
+105,kacang,1
+105,tahu,1
+105,sate,5
+105,gorengan kering,5
+105,es krim,1
+105,ubi,1
+105,luar negeri,1
+105,gorengan basah,1
+105,berkuah,1
+105,cendol,5
+105,es campur,5
+105,bubble tea,5
+105,susu,1
+105,jus buah,5
+105,soft drink,1
+105,es doger,5
+105,teh,1
+105,kopi,1
+105,air mineral,1
+105,air kelapa,1
+106,nasi goreng,1
+106,mie kuah,1
+106,nasi,5
+106,mie,1
+106,bakso,1
+106,bubur,1
+106,ayam,1
+106,kue,5
+106,buah,1
+106,roti,1
+106,jagung,1
+106,kacang,1
+106,tahu,5
+106,sate,1
+106,gorengan kering,1
+106,es krim,1
+106,ubi,1
+106,luar negeri,1
+106,gorengan basah,1
+106,berkuah,1
+106,cendol,5
+106,es campur,5
+106,bubble tea,1
+106,susu,1
+106,jus buah,5
+106,soft drink,1
+106,es doger,5
+106,teh,5
+106,kopi,1
+106,air mineral,1
+106,air kelapa,1
+107,nasi goreng,5
+107,mie kuah,1
+107,nasi,1
+107,mie,1
+107,bakso,5
+107,bubur,1
+107,ayam,1
+107,kue,1
+107,buah,1
+107,roti,1
+107,jagung,1
+107,kacang,1
+107,tahu,1
+107,sate,5
+107,gorengan kering,5
+107,es krim,1
+107,ubi,1
+107,luar negeri,1
+107,gorengan basah,1
+107,berkuah,1
+107,cendol,1
+107,es campur,5
+107,bubble tea,1
+107,susu,1
+107,jus buah,5
+107,soft drink,5
+107,es doger,1
+107,teh,5
+107,kopi,1
+107,air mineral,1
+107,air kelapa,1
+108,nasi goreng,1
+108,mie kuah,1
+108,nasi,1
+108,mie,5
+108,bakso,5
+108,bubur,1
+108,ayam,5
+108,kue,1
+108,buah,1
+108,roti,5
+108,jagung,1
+108,kacang,1
+108,tahu,5
+108,sate,5
+108,gorengan kering,1
+108,es krim,1
+108,ubi,1
+108,luar negeri,1
+108,gorengan basah,1
+108,berkuah,1
+108,cendol,5
+108,es campur,1
+108,bubble tea,5
+108,susu,1
+108,jus buah,1
+108,soft drink,1
+108,es doger,1
+108,teh,1
+108,kopi,5
+108,air mineral,1
+108,air kelapa,1
+109,nasi goreng,5
+109,mie kuah,5
+109,nasi,5
+109,mie,5
+109,bakso,5
+109,bubur,5
+109,ayam,5
+109,kue,1
+109,buah,5
+109,roti,1
+109,jagung,1
+109,kacang,1
+109,tahu,1
+109,sate,5
+109,gorengan kering,5
+109,es krim,5
+109,ubi,1
+109,luar negeri,1
+109,gorengan basah,1
+109,berkuah,1
+109,cendol,1
+109,es campur,1
+109,bubble tea,1
+109,susu,1
+109,jus buah,5
+109,soft drink,5
+109,es doger,1
+109,teh,5
+109,kopi,1
+109,air mineral,1
+109,air kelapa,1
+110,nasi goreng,5
+110,mie kuah,1
+110,nasi,1
+110,mie,1
+110,bakso,5
+110,bubur,5
+110,ayam,5
+110,kue,5
+110,buah,1
+110,roti,1
+110,jagung,1
+110,kacang,1
+110,tahu,5
+110,sate,5
+110,gorengan kering,5
+110,es krim,5
+110,ubi,1
+110,luar negeri,1
+110,gorengan basah,5
+110,berkuah,1
+110,cendol,1
+110,es campur,1
+110,bubble tea,5
+110,susu,1
+110,jus buah,1
+110,soft drink,5
+110,es doger,1
+110,teh,5
+110,kopi,5
+110,air mineral,1
+110,air kelapa,1
+111,nasi goreng,5
+111,mie kuah,1
+111,nasi,1
+111,mie,5
+111,bakso,1
+111,bubur,1
+111,ayam,5
+111,kue,1
+111,buah,5
+111,roti,1
+111,jagung,1
+111,kacang,1
+111,tahu,1
+111,sate,1
+111,gorengan kering,1
+111,es krim,5
+111,ubi,1
+111,luar negeri,1
+111,gorengan basah,1
+111,berkuah,1
+111,cendol,5
+111,es campur,5
+111,bubble tea,5
+111,susu,5
+111,jus buah,5
+111,soft drink,5
+111,es doger,1
+111,teh,5
+111,kopi,5
+111,air mineral,1
+111,air kelapa,1
+112,nasi goreng,1
+112,mie kuah,1
+112,nasi,1
+112,mie,5
+112,bakso,5
+112,bubur,5
+112,ayam,5
+112,kue,1
+112,buah,5
+112,roti,1
+112,jagung,1
+112,kacang,1
+112,tahu,1
+112,sate,5
+112,gorengan kering,5
+112,es krim,1
+112,ubi,1
+112,luar negeri,1
+112,gorengan basah,1
+112,berkuah,1
+112,cendol,1
+112,es campur,1
+112,bubble tea,5
+112,susu,1
+112,jus buah,1
+112,soft drink,1
+112,es doger,1
+112,teh,5
+112,kopi,5
+112,air mineral,1
+112,air kelapa,1
+113,nasi goreng,1
+113,mie kuah,1
+113,nasi,1
+113,mie,1
+113,bakso,5
+113,bubur,5
+113,ayam,1
+113,kue,5
+113,buah,1
+113,roti,1
+113,jagung,1
+113,kacang,1
+113,tahu,1
+113,sate,5
+113,gorengan kering,5
+113,es krim,1
+113,ubi,1
+113,luar negeri,1
+113,gorengan basah,1
+113,berkuah,1
+113,cendol,5
+113,es campur,5
+113,bubble tea,5
+113,susu,1
+113,jus buah,5
+113,soft drink,1
+113,es doger,5
+113,teh,1
+113,kopi,5
+113,air mineral,1
+113,air kelapa,1
+114,nasi goreng,5
+114,mie kuah,1
+114,nasi,1
+114,mie,5
+114,bakso,5
+114,bubur,5
+114,ayam,1
+114,kue,1
+114,buah,1
+114,roti,1
+114,jagung,1
+114,kacang,1
+114,tahu,1
+114,sate,5
+114,gorengan kering,1
+114,es krim,1
+114,ubi,1
+114,luar negeri,1
+114,gorengan basah,1
+114,berkuah,1
+114,cendol,1
+114,es campur,1
+114,bubble tea,1
+114,susu,1
+114,jus buah,5
+114,soft drink,1
+114,es doger,1
+114,teh,1
+114,kopi,5
+114,air mineral,1
+114,air kelapa,1
+115,nasi goreng,5
+115,mie kuah,5
+115,nasi,1
+115,mie,5
+115,bakso,5
+115,bubur,1
+115,ayam,1
+115,kue,1
+115,buah,1
+115,roti,1
+115,jagung,1
+115,kacang,1
+115,tahu,1
+115,sate,1
+115,gorengan kering,5
+115,es krim,1
+115,ubi,1
+115,luar negeri,1
+115,gorengan basah,1
+115,berkuah,1
+115,cendol,5
+115,es campur,5
+115,bubble tea,1
+115,susu,5
+115,jus buah,1
+115,soft drink,1
+115,es doger,5
+115,teh,5
+115,kopi,5
+115,air mineral,1
+115,air kelapa,1
+119,nasi goreng,5
+119,mie kuah,1
+119,nasi,5
+119,mie,1
+119,bakso,5
+119,bubur,1
+119,ayam,1
+119,kue,1
+119,buah,5
+119,roti,5
+119,jagung,1
+119,kacang,1
+119,tahu,1
+119,sate,5
+119,gorengan kering,1
+119,es krim,1
+119,ubi,1
+119,luar negeri,1
+119,gorengan basah,1
+119,berkuah,1
+119,cendol,1
+119,es campur,5
+119,bubble tea,5
+119,susu,1
+119,jus buah,5
+119,soft drink,1
+119,es doger,1
+119,teh,5
+119,kopi,1
+119,air mineral,1
+119,air kelapa,1
+120,nasi goreng,5
+120,mie kuah,1
+120,nasi,1
+120,mie,5
+120,bakso,1
+120,bubur,1
+120,ayam,5
+120,kue,1
+120,buah,1
+120,roti,5
+120,jagung,1
+120,kacang,1
+120,tahu,1
+120,sate,5
+120,gorengan kering,5
+120,es krim,1
+120,ubi,1
+120,luar negeri,1
+120,gorengan basah,1
+120,berkuah,5
+120,cendol,5
+120,es campur,5
+120,bubble tea,1
+120,susu,1
+120,jus buah,1
+120,soft drink,1
+120,es doger,5
+120,teh,5
+120,kopi,1
+120,air mineral,1
+120,air kelapa,1
+121,nasi goreng,5
+121,mie kuah,1
+121,nasi,1
+121,mie,1
+121,bakso,5
+121,bubur,5
+121,ayam,5
+121,kue,1
+121,buah,1
+121,roti,1
+121,jagung,1
+121,kacang,1
+121,tahu,1
+121,sate,5
+121,gorengan kering,5
+121,es krim,1
+121,ubi,1
+121,luar negeri,1
+121,gorengan basah,1
+121,berkuah,1
+121,cendol,1
+121,es campur,1
+121,bubble tea,1
+121,susu,1
+121,jus buah,1
+121,soft drink,1
+121,es doger,1
+121,teh,5
+121,kopi,5
+121,air mineral,1
+121,air kelapa,5
+123,nasi goreng,1
+123,mie kuah,1
+123,nasi,1
+123,mie,5
+123,bakso,5
+123,bubur,1
+123,ayam,1
+123,kue,5
+123,buah,1
+123,roti,1
+123,jagung,1
+123,kacang,1
+123,tahu,1
+123,sate,1
+123,gorengan kering,1
+123,es krim,5
+123,ubi,1
+123,luar negeri,1
+123,gorengan basah,1
+123,berkuah,1
+123,cendol,1
+123,es campur,1
+123,bubble tea,5
+123,susu,5
+123,jus buah,5
+123,soft drink,5
+123,es doger,5
+123,teh,5
+123,kopi,1
+123,air mineral,1
+123,air kelapa,1
+124,nasi goreng,5
+124,mie kuah,1
+124,nasi,1
+124,mie,1
+124,bakso,5
+124,bubur,1
+124,ayam,1
+124,kue,1
+124,buah,1
+124,roti,1
+124,jagung,1
+124,kacang,1
+124,tahu,1
+124,sate,1
+124,gorengan kering,5
+124,es krim,1
+124,ubi,1
+124,luar negeri,1
+124,gorengan basah,1
+124,berkuah,1
+124,cendol,5
+124,es campur,1
+124,bubble tea,5
+124,susu,1
+124,jus buah,5
+124,soft drink,1
+124,es doger,1
+124,teh,1
+124,kopi,1
+124,air mineral,1
+124,air kelapa,1
+125,nasi goreng,5
+125,mie kuah,1
+125,nasi,1
+125,mie,1
+125,bakso,5
+125,bubur,1
+125,ayam,5
+125,kue,5
+125,buah,1
+125,roti,5
+125,jagung,1
+125,kacang,1
+125,tahu,5
+125,sate,1
+125,gorengan kering,5
+125,es krim,1
+125,ubi,1
+125,luar negeri,1
+125,gorengan basah,1
+125,berkuah,1
+125,cendol,5
+125,es campur,5
+125,bubble tea,1
+125,susu,1
+125,jus buah,1
+125,soft drink,1
+125,es doger,5
+125,teh,1
+125,kopi,1
+125,air mineral,1
+125,air kelapa,1
+126,nasi goreng,5
+126,mie kuah,1
+126,nasi,1
+126,mie,1
+126,bakso,5
+126,bubur,5
+126,ayam,1
+126,kue,1
+126,buah,5
+126,roti,5
+126,jagung,1
+126,kacang,1
+126,tahu,5
+126,sate,5
+126,gorengan kering,5
+126,es krim,1
+126,ubi,1
+126,luar negeri,1
+126,gorengan basah,1
+126,berkuah,5
+126,cendol,1
+126,es campur,5
+126,bubble tea,1
+126,susu,1
+126,jus buah,1
+126,soft drink,1
+126,es doger,5
+126,teh,5
+126,kopi,1
+126,air mineral,5
+126,air kelapa,1
+127,nasi goreng,5
+127,mie kuah,1
+127,nasi,1
+127,mie,1
+127,bakso,5
+127,bubur,5
+127,ayam,1
+127,kue,1
+127,buah,1
+127,roti,5
+127,jagung,1
+127,kacang,1
+127,tahu,1
+127,sate,5
+127,gorengan kering,1
+127,es krim,1
+127,ubi,1
+127,luar negeri,1
+127,gorengan basah,1
+127,berkuah,1
+127,cendol,5
+127,es campur,1
+127,bubble tea,5
+127,susu,5
+127,jus buah,5
+127,soft drink,5
+127,es doger,1
+127,teh,1
+127,kopi,1
+127,air mineral,1
+127,air kelapa,1
+128,nasi goreng,1
+128,mie kuah,1
+128,nasi,1
+128,mie,5
+128,bakso,5
+128,bubur,5
+128,ayam,1
+128,kue,1
+128,buah,1
+128,roti,1
+128,jagung,1
+128,kacang,1
+128,tahu,1
+128,sate,5
+128,gorengan kering,1
+128,es krim,1
+128,ubi,1
+128,luar negeri,1
+128,gorengan basah,1
+128,berkuah,5
+128,cendol,1
+128,es campur,1
+128,bubble tea,5
+128,susu,1
+128,jus buah,1
+128,soft drink,1
+128,es doger,1
+128,teh,1
+128,kopi,5
+128,air mineral,1
+128,air kelapa,1
+129,nasi goreng,1
+129,mie kuah,1
+129,nasi,1
+129,mie,1
+129,bakso,5
+129,bubur,1
+129,ayam,5
+129,kue,1
+129,buah,1
+129,roti,1
+129,jagung,1
+129,kacang,1
+129,tahu,1
+129,sate,5
+129,gorengan kering,5
+129,es krim,1
+129,ubi,1
+129,luar negeri,1
+129,gorengan basah,1
+129,berkuah,1
+129,cendol,1
+129,es campur,1
+129,bubble tea,1
+129,susu,1
+129,jus buah,5
+129,soft drink,1
+129,es doger,1
+129,teh,1
+129,kopi,5
+129,air mineral,1
+129,air kelapa,1
+130,nasi goreng,5
+130,mie kuah,5
+130,nasi,1
+130,mie,1
+130,bakso,5
+130,bubur,1
+130,ayam,1
+130,kue,1
+130,buah,1
+130,roti,1
+130,jagung,1
+130,kacang,1
+130,tahu,1
+130,sate,1
+130,gorengan kering,1
+130,es krim,1
+130,ubi,1
+130,luar negeri,1
+130,gorengan basah,1
+130,berkuah,1
+130,cendol,5
+130,es campur,5
+130,bubble tea,1
+130,susu,1
+130,jus buah,1
+130,soft drink,1
+130,es doger,5
+130,teh,1
+130,kopi,1
+130,air mineral,1
+130,air kelapa,1
+135,nasi goreng,5
+135,mie kuah,1
+135,nasi,1
+135,mie,1
+135,bakso,5
+135,bubur,5
+135,ayam,5
+135,kue,5
+135,buah,1
+135,roti,1
+135,jagung,1
+135,kacang,1
+135,tahu,1
+135,sate,1
+135,gorengan kering,1
+135,es krim,1
+135,ubi,1
+135,luar negeri,1
+135,gorengan basah,1
+135,berkuah,5
+135,cendol,1
+135,es campur,1
+135,bubble tea,5
+135,susu,1
+135,jus buah,5
+135,soft drink,1
+135,es doger,1
+135,teh,1
+135,kopi,1
+135,air mineral,1
+135,air kelapa,1
+137,nasi goreng,5
+137,mie kuah,1
+137,nasi,1
+137,mie,5
+137,bakso,5
+137,bubur,5
+137,ayam,1
+137,kue,1
+137,buah,1
+137,roti,1
+137,jagung,5
+137,kacang,1
+137,tahu,1
+137,sate,5
+137,gorengan kering,5
+137,es krim,1
+137,ubi,1
+137,luar negeri,1
+137,gorengan basah,1
+137,berkuah,1
+137,cendol,5
+137,es campur,1
+137,bubble tea,1
+137,susu,1
+137,jus buah,1
+137,soft drink,1
+137,es doger,5
+137,teh,1
+137,kopi,1
+137,air mineral,1
+137,air kelapa,1
+140,nasi goreng,5
+140,mie kuah,1
+140,nasi,5
+140,mie,5
+140,bakso,1
+140,bubur,5
+140,ayam,5
+140,kue,5
+140,buah,5
+140,roti,5
+140,jagung,1
+140,kacang,1
+140,tahu,5
+140,sate,5
+140,gorengan kering,5
+140,es krim,5
+140,ubi,1
+140,luar negeri,1
+140,gorengan basah,1
+140,berkuah,5
+140,cendol,1
+140,es campur,5
+140,bubble tea,5
+140,susu,1
+140,jus buah,5
+140,soft drink,1
+140,es doger,1
+140,teh,5
+140,kopi,5
+140,air mineral,1
+140,air kelapa,1
+141,nasi goreng,5
+141,mie kuah,5
+141,nasi,5
+141,mie,5
+141,bakso,5
+141,bubur,1
+141,ayam,5
+141,kue,5
+141,buah,5
+141,roti,5
+141,jagung,1
+141,kacang,1
+141,tahu,5
+141,sate,5
+141,gorengan kering,5
+141,es krim,5
+141,ubi,1
+141,luar negeri,1
+141,gorengan basah,1
+141,berkuah,5
+141,cendol,5
+141,es campur,5
+141,bubble tea,5
+141,susu,1
+141,jus buah,5
+141,soft drink,5
+141,es doger,1
+141,teh,5
+141,kopi,1
+141,air mineral,1
+141,air kelapa,1
+146,nasi goreng,5
+146,mie kuah,1
+146,nasi,1
+146,mie,1
+146,bakso,5
+146,bubur,1
+146,ayam,5
+146,kue,1
+146,buah,1
+146,roti,1
+146,jagung,1
+146,kacang,1
+146,tahu,1
+146,sate,1
+146,gorengan kering,1
+146,es krim,1
+146,ubi,1
+146,luar negeri,1
+146,gorengan basah,1
+146,berkuah,1
+146,cendol,5
+146,es campur,1
+146,bubble tea,1
+146,susu,1
+146,jus buah,1
+146,soft drink,1
+146,es doger,5
+146,teh,1
+146,kopi,1
+146,air mineral,1
+146,air kelapa,1
+148,nasi goreng,1
+148,mie kuah,1
+148,nasi,1
+148,mie,5
+148,bakso,5
+148,bubur,5
+148,ayam,1
+148,kue,1
+148,buah,1
+148,roti,1
+148,jagung,1
+148,kacang,1
+148,tahu,5
+148,sate,5
+148,gorengan kering,1
+148,es krim,1
+148,ubi,1
+148,luar negeri,1
+148,gorengan basah,1
+148,berkuah,1
+148,cendol,5
+148,es campur,1
+148,bubble tea,1
+148,susu,1
+148,jus buah,1
+148,soft drink,1
+148,es doger,5
+148,teh,1
+148,kopi,1
+148,air mineral,1
+148,air kelapa,1
+149,nasi goreng,5
+149,mie kuah,5
+149,nasi,5
+149,mie,5
+149,bakso,5
+149,bubur,5
+149,ayam,5
+149,kue,5
+149,buah,5
+149,roti,5
+149,jagung,1
+149,kacang,1
+149,tahu,5
+149,sate,5
+149,gorengan kering,5
+149,es krim,5
+149,ubi,1
+149,luar negeri,1
+149,gorengan basah,1
+149,berkuah,5
+149,cendol,1
+149,es campur,5
+149,bubble tea,1
+149,susu,5
+149,jus buah,5
+149,soft drink,1
+149,es doger,1
+149,teh,5
+149,kopi,5
+149,air mineral,1
+149,air kelapa,1
+152,nasi goreng,5
+152,mie kuah,5
+152,nasi,1
+152,mie,1
+152,bakso,5
+152,bubur,1
+152,ayam,1
+152,kue,1
+152,buah,1
+152,roti,1
+152,jagung,1
+152,kacang,1
+152,tahu,1
+152,sate,1
+152,gorengan kering,1
+152,es krim,1
+152,ubi,1
+152,luar negeri,1
+152,gorengan basah,1
+152,berkuah,1
+152,cendol,5
+152,es campur,5
+152,bubble tea,1
+152,susu,1
+152,jus buah,1
+152,soft drink,1
+152,es doger,1
+152,teh,5
+152,kopi,1
+152,air mineral,1
+152,air kelapa,1
+156,nasi goreng,5
+156,mie kuah,1
+156,nasi,1
+156,mie,1
+156,bakso,5
+156,bubur,1
+156,ayam,5
+156,kue,1
+156,buah,1
+156,roti,1
+156,jagung,5
+156,kacang,1
+156,tahu,1
+156,sate,5
+156,gorengan kering,5
+156,es krim,1
+156,ubi,1
+156,luar negeri,1
+156,gorengan basah,1
+156,berkuah,5
+156,cendol,5
+156,es campur,1
+156,bubble tea,5
+156,susu,5
+156,jus buah,5
+156,soft drink,5
+156,es doger,1
+156,teh,5
+156,kopi,5
+156,air mineral,1
+156,air kelapa,1
+159,nasi goreng,5
+159,mie kuah,1
+159,nasi,1
+159,mie,1
+159,bakso,5
+159,bubur,1
+159,ayam,1
+159,kue,1
+159,buah,1
+159,roti,1
+159,jagung,1
+159,kacang,1
+159,tahu,1
+159,sate,1
+159,gorengan kering,5
+159,es krim,1
+159,ubi,1
+159,luar negeri,1
+159,gorengan basah,1
+159,berkuah,1
+159,cendol,5
+159,es campur,5
+159,bubble tea,5
+159,susu,5
+159,jus buah,1
+159,soft drink,1
+159,es doger,1
+159,teh,1
+159,kopi,5
+159,air mineral,1
+159,air kelapa,1
+160,nasi goreng,5
+160,mie kuah,1
+160,nasi,1
+160,mie,1
+160,bakso,5
+160,bubur,1
+160,ayam,5
+160,kue,1
+160,buah,1
+160,roti,1
+160,jagung,1
+160,kacang,1
+160,tahu,1
+160,sate,1
+160,gorengan kering,1
+160,es krim,1
+160,ubi,1
+160,luar negeri,1
+160,gorengan basah,1
+160,berkuah,1
+160,cendol,1
+160,es campur,1
+160,bubble tea,5
+160,susu,5
+160,jus buah,1
+160,soft drink,5
+160,es doger,1
+160,teh,5
+160,kopi,1
+160,air mineral,1
+160,air kelapa,1
+161,nasi goreng,5
+161,mie kuah,5
+161,nasi,1
+161,mie,1
+161,bakso,5
+161,bubur,5
+161,ayam,5
+161,kue,1
+161,buah,1
+161,roti,5
+161,jagung,1
+161,kacang,1
+161,tahu,1
+161,sate,5
+161,gorengan kering,1
+161,es krim,1
+161,ubi,1
+161,luar negeri,1
+161,gorengan basah,1
+161,berkuah,1
+161,cendol,1
+161,es campur,1
+161,bubble tea,1
+161,susu,1
+161,jus buah,5
+161,soft drink,1
+161,es doger,1
+161,teh,5
+161,kopi,1
+161,air mineral,1
+161,air kelapa,1
+162,nasi goreng,5
+162,mie kuah,1
+162,nasi,1
+162,mie,1
+162,bakso,5
+162,bubur,1
+162,ayam,1
+162,kue,1
+162,buah,1
+162,roti,1
+162,jagung,1
+162,kacang,1
+162,tahu,1
+162,sate,1
+162,gorengan kering,5
+162,es krim,1
+162,ubi,1
+162,luar negeri,1
+162,gorengan basah,1
+162,berkuah,1
+162,cendol,1
+162,es campur,5
+162,bubble tea,1
+162,susu,1
+162,jus buah,5
+162,soft drink,1
+162,es doger,5
+162,teh,1
+162,kopi,1
+162,air mineral,1
+162,air kelapa,1
+163,nasi goreng,5
+163,mie kuah,1
+163,nasi,1
+163,mie,1
+163,bakso,1
+163,bubur,1
+163,ayam,1
+163,kue,1
+163,buah,5
+163,roti,1
+163,jagung,1
+163,kacang,1
+163,tahu,1
+163,sate,5
+163,gorengan kering,1
+163,es krim,5
+163,ubi,1
+163,luar negeri,1
+163,gorengan basah,1
+163,berkuah,1
+163,cendol,1
+163,es campur,1
+163,bubble tea,5
+163,susu,5
+163,jus buah,1
+163,soft drink,1
+163,es doger,1
+163,teh,5
+163,kopi,5
+163,air mineral,1
+163,air kelapa,1
+165,nasi goreng,5
+165,mie kuah,5
+165,nasi,1
+165,mie,1
+165,bakso,1
+165,bubur,5
+165,ayam,1
+165,kue,1
+165,buah,1
+165,roti,1
+165,jagung,1
+165,kacang,1
+165,tahu,1
+165,sate,5
+165,gorengan kering,1
+165,es krim,1
+165,ubi,1
+165,luar negeri,1
+165,gorengan basah,1
+165,berkuah,5
+165,cendol,1
+165,es campur,1
+165,bubble tea,1
+165,susu,1
+165,jus buah,1
+165,soft drink,1
+165,es doger,1
+165,teh,5
+165,kopi,1
+165,air mineral,5
+165,air kelapa,1
+166,nasi goreng,1
+166,mie kuah,5
+166,nasi,1
+166,mie,5
+166,bakso,5
+166,bubur,5
+166,ayam,5
+166,kue,1
+166,buah,1
+166,roti,1
+166,jagung,1
+166,kacang,1
+166,tahu,1
+166,sate,5
+166,gorengan kering,1
+166,es krim,1
+166,ubi,1
+166,luar negeri,1
+166,gorengan basah,1
+166,berkuah,1
+166,cendol,5
+166,es campur,5
+166,bubble tea,1
+166,susu,1
+166,jus buah,5
+166,soft drink,1
+166,es doger,1
+166,teh,1
+166,kopi,1
+166,air mineral,1
+166,air kelapa,1
+167,nasi goreng,1
+167,mie kuah,1
+167,nasi,1
+167,mie,1
+167,bakso,5
+167,bubur,5
+167,ayam,1
+167,kue,1
+167,buah,1
+167,roti,1
+167,jagung,1
+167,kacang,1
+167,tahu,1
+167,sate,5
+167,gorengan kering,5
+167,es krim,1
+167,ubi,1
+167,luar negeri,1
+167,gorengan basah,1
+167,berkuah,5
+167,cendol,1
+167,es campur,1
+167,bubble tea,1
+167,susu,1
+167,jus buah,5
+167,soft drink,1
+167,es doger,1
+167,teh,5
+167,kopi,5
+167,air mineral,5
+167,air kelapa,1
+169,nasi goreng,5
+169,mie kuah,1
+169,nasi,5
+169,mie,5
+169,bakso,5
+169,bubur,1
+169,ayam,1
+169,kue,1
+169,buah,1
+169,roti,1
+169,jagung,1
+169,kacang,1
+169,tahu,1
+169,sate,1
+169,gorengan kering,1
+169,es krim,1
+169,ubi,1
+169,luar negeri,1
+169,gorengan basah,1
+169,berkuah,5
+169,cendol,5
+169,es campur,5
+169,bubble tea,1
+169,susu,1
+169,jus buah,1
+169,soft drink,1
+169,es doger,5
+169,teh,1
+169,kopi,1
+169,air mineral,1
+169,air kelapa,1
+170,nasi goreng,5
+170,mie kuah,1
+170,nasi,1
+170,mie,5
+170,bakso,5
+170,bubur,5
+170,ayam,1
+170,kue,1
+170,buah,1
+170,roti,5
+170,jagung,1
+170,kacang,1
+170,tahu,1
+170,sate,5
+170,gorengan kering,5
+170,es krim,1
+170,ubi,1
+170,luar negeri,1
+170,gorengan basah,1
+170,berkuah,1
+170,cendol,5
+170,es campur,1
+170,bubble tea,1
+170,susu,1
+170,jus buah,1
+170,soft drink,1
+170,es doger,5
+170,teh,1
+170,kopi,1
+170,air mineral,1
+170,air kelapa,1
+171,nasi goreng,5
+171,mie kuah,5
+171,nasi,1
+171,mie,5
+171,bakso,1
+171,bubur,5
+171,ayam,1
+171,kue,5
+171,buah,5
+171,roti,1
+171,jagung,5
+171,kacang,5
+171,tahu,5
+171,sate,1
+171,gorengan kering,5
+171,es krim,1
+171,ubi,5
+171,luar negeri,1
+171,gorengan basah,1
+171,berkuah,1
+171,cendol,5
+171,es campur,1
+171,bubble tea,1
+171,susu,1
+171,jus buah,5
+171,soft drink,1
+171,es doger,5
+171,teh,5
+171,kopi,1
+171,air mineral,5
+171,air kelapa,1
+173,nasi goreng,5
+173,mie kuah,5
+173,nasi,5
+173,mie,5
+173,bakso,5
+173,bubur,5
+173,ayam,5
+173,kue,5
+173,buah,5
+173,roti,5
+173,jagung,5
+173,kacang,5
+173,tahu,5
+173,sate,5
+173,gorengan kering,5
+173,es krim,5
+173,ubi,5
+173,luar negeri,1
+173,gorengan basah,1
+173,berkuah,5
+173,cendol,1
+173,es campur,5
+173,bubble tea,5
+173,susu,1
+173,jus buah,5
+173,soft drink,1
+173,es doger,1
+173,teh,1
+173,kopi,5
+173,air mineral,1
+173,air kelapa,1
+174,nasi goreng,5
+174,mie kuah,5
+174,nasi,1
+174,mie,1
+174,bakso,5
+174,bubur,5
+174,ayam,1
+174,kue,1
+174,buah,1
+174,roti,1
+174,jagung,1
+174,kacang,1
+174,tahu,1
+174,sate,1
+174,gorengan kering,5
+174,es krim,1
+174,ubi,1
+174,luar negeri,1
+174,gorengan basah,1
+174,berkuah,1
+174,cendol,1
+174,es campur,5
+174,bubble tea,5
+174,susu,1
+174,jus buah,5
+174,soft drink,5
+174,es doger,1
+174,teh,5
+174,kopi,5
+174,air mineral,1
+174,air kelapa,1
+177,nasi goreng,5
+177,mie kuah,1
+177,nasi,1
+177,mie,1
+177,bakso,5
+177,bubur,5
+177,ayam,1
+177,kue,5
+177,buah,5
+177,roti,1
+177,jagung,1
+177,kacang,1
+177,tahu,1
+177,sate,5
+177,gorengan kering,1
+177,es krim,1
+177,ubi,1
+177,luar negeri,1
+177,gorengan basah,1
+177,berkuah,5
+177,cendol,5
+177,es campur,1
+177,bubble tea,1
+177,susu,1
+177,jus buah,5
+177,soft drink,1
+177,es doger,1
+177,teh,1
+177,kopi,1
+177,air mineral,1
+177,air kelapa,1
+178,nasi goreng,5
+178,mie kuah,1
+178,nasi,5
+178,mie,1
+178,bakso,5
+178,bubur,1
+178,ayam,1
+178,kue,1
+178,buah,1
+178,roti,1
+178,jagung,1
+178,kacang,1
+178,tahu,1
+178,sate,5
+178,gorengan kering,5
+178,es krim,1
+178,ubi,1
+178,luar negeri,1
+178,gorengan basah,1
+178,berkuah,1
+178,cendol,1
+178,es campur,1
+178,bubble tea,1
+178,susu,5
+178,jus buah,1
+178,soft drink,1
+178,es doger,1
+178,teh,5
+178,kopi,1
+178,air mineral,1
+178,air kelapa,1
+180,nasi goreng,5
+180,mie kuah,1
+180,nasi,1
+180,mie,5
+180,bakso,1
+180,bubur,5
+180,ayam,1
+180,kue,5
+180,buah,5
+180,roti,5
+180,jagung,1
+180,kacang,5
+180,tahu,5
+180,sate,1
+180,gorengan kering,5
+180,es krim,1
+180,ubi,1
+180,luar negeri,1
+180,gorengan basah,1
+180,berkuah,5
+180,cendol,1
+180,es campur,1
+180,bubble tea,1
+180,susu,1
+180,jus buah,5
+180,soft drink,1
+180,es doger,1
+180,teh,5
+180,kopi,1
+180,air mineral,1
+180,air kelapa,1
+183,nasi goreng,5
+183,mie kuah,1
+183,nasi,1
+183,mie,1
+183,bakso,5
+183,bubur,5
+183,ayam,1
+183,kue,1
+183,buah,1
+183,roti,1
+183,jagung,1
+183,kacang,1
+183,tahu,1
+183,sate,5
+183,gorengan kering,1
+183,es krim,1
+183,ubi,1
+183,luar negeri,1
+183,gorengan basah,1
+183,berkuah,1
+183,cendol,5
+183,es campur,5
+183,bubble tea,1
+183,susu,1
+183,jus buah,1
+183,soft drink,1
+183,es doger,5
+183,teh,1
+183,kopi,1
+183,air mineral,1
+183,air kelapa,1
+184,nasi goreng,5
+184,mie kuah,1
+184,nasi,1
+184,mie,1
+184,bakso,5
+184,bubur,5
+184,ayam,5
+184,kue,1
+184,buah,1
+184,roti,1
+184,jagung,1
+184,kacang,1
+184,tahu,5
+184,sate,5
+184,gorengan kering,5
+184,es krim,1
+184,ubi,1
+184,luar negeri,1
+184,gorengan basah,1
+184,berkuah,5
+184,cendol,1
+184,es campur,5
+184,bubble tea,1
+184,susu,5
+184,jus buah,5
+184,soft drink,5
+184,es doger,1
+184,teh,5
+184,kopi,5
+184,air mineral,1
+184,air kelapa,1
+185,nasi goreng,5
+185,mie kuah,5
+185,nasi,1
+185,mie,1
+185,bakso,5
+185,bubur,1
+185,ayam,1
+185,kue,5
+185,buah,5
+185,roti,1
+185,jagung,1
+185,kacang,1
+185,tahu,1
+185,sate,5
+185,gorengan kering,1
+185,es krim,1
+185,ubi,1
+185,luar negeri,1
+185,gorengan basah,1
+185,berkuah,1
+185,cendol,5
+185,es campur,1
+185,bubble tea,1
+185,susu,1
+185,jus buah,1
+185,soft drink,1
+185,es doger,5
+185,teh,1
+185,kopi,5
+185,air mineral,1
+185,air kelapa,1
+186,nasi goreng,5
+186,mie kuah,1
+186,nasi,5
+186,mie,5
+186,bakso,5
+186,bubur,1
+186,ayam,1
+186,kue,1
+186,buah,1
+186,roti,1
+186,jagung,1
+186,kacang,1
+186,tahu,1
+186,sate,1
+186,gorengan kering,1
+186,es krim,1
+186,ubi,1
+186,luar negeri,1
+186,gorengan basah,1
+186,berkuah,5
+186,cendol,5
+186,es campur,5
+186,bubble tea,1
+186,susu,1
+186,jus buah,1
+186,soft drink,1
+186,es doger,5
+186,teh,1
+186,kopi,1
+186,air mineral,1
+186,air kelapa,1
+187,nasi goreng,5
+187,mie kuah,1
+187,nasi,1
+187,mie,1
+187,bakso,5
+187,bubur,1
+187,ayam,5
+187,kue,5
+187,buah,1
+187,roti,1
+187,jagung,1
+187,kacang,1
+187,tahu,5
+187,sate,5
+187,gorengan kering,5
+187,es krim,1
+187,ubi,1
+187,luar negeri,1
+187,gorengan basah,1
+187,berkuah,5
+187,cendol,5
+187,es campur,1
+187,bubble tea,1
+187,susu,5
+187,jus buah,5
+187,soft drink,1
+187,es doger,1
+187,teh,5
+187,kopi,1
+187,air mineral,1
+187,air kelapa,1
+188,nasi goreng,1
+188,mie kuah,1
+188,nasi,1
+188,mie,1
+188,bakso,5
+188,bubur,1
+188,ayam,1
+188,kue,1
+188,buah,5
+188,roti,5
+188,jagung,1
+188,kacang,1
+188,tahu,5
+188,sate,5
+188,gorengan kering,5
+188,es krim,1
+188,ubi,1
+188,luar negeri,1
+188,gorengan basah,5
+188,berkuah,1
+188,cendol,5
+188,es campur,1
+188,bubble tea,1
+188,susu,5
+188,jus buah,5
+188,soft drink,5
+188,es doger,1
+188,teh,1
+188,kopi,1
+188,air mineral,1
+188,air kelapa,1
+191,nasi goreng,5
+191,mie kuah,5
+191,nasi,5
+191,mie,5
+191,bakso,5
+191,bubur,5
+191,ayam,5
+191,kue,5
+191,buah,5
+191,roti,5
+191,jagung,5
+191,kacang,5
+191,tahu,5
+191,sate,5
+191,gorengan kering,5
+191,es krim,5
+191,ubi,5
+191,luar negeri,1
+191,gorengan basah,1
+191,berkuah,5
+191,cendol,5
+191,es campur,5
+191,bubble tea,5
+191,susu,5
+191,jus buah,5
+191,soft drink,5
+191,es doger,5
+191,teh,5
+191,kopi,5
+191,air mineral,1
+191,air kelapa,1
+192,nasi goreng,5
+192,mie kuah,1
+192,nasi,1
+192,mie,1
+192,bakso,1
+192,bubur,1
+192,ayam,1
+192,kue,1
+192,buah,5
+192,roti,5
+192,jagung,1
+192,kacang,1
+192,tahu,1
+192,sate,1
+192,gorengan kering,1
+192,es krim,5
+192,ubi,1
+192,luar negeri,1
+192,gorengan basah,1
+192,berkuah,1
+192,cendol,5
+192,es campur,5
+192,bubble tea,5
+192,susu,5
+192,jus buah,5
+192,soft drink,1
+192,es doger,5
+192,teh,1
+192,kopi,1
+192,air mineral,1
+192,air kelapa,1
+194,nasi goreng,5
+194,mie kuah,5
+194,nasi,5
+194,mie,5
+194,bakso,5
+194,bubur,5
+194,ayam,5
+194,kue,5
+194,buah,5
+194,roti,5
+194,jagung,5
+194,kacang,5
+194,tahu,5
+194,sate,5
+194,gorengan kering,5
+194,es krim,5
+194,ubi,5
+194,luar negeri,1
+194,gorengan basah,1
+194,berkuah,5
+194,cendol,5
+194,es campur,5
+194,bubble tea,5
+194,susu,5
+194,jus buah,5
+194,soft drink,5
+194,es doger,5
+194,teh,5
+194,kopi,5
+194,air mineral,1
+194,air kelapa,1
+195,nasi goreng,5
+195,mie kuah,1
+195,nasi,5
+195,mie,5
+195,bakso,5
+195,bubur,1
+195,ayam,1
+195,kue,1
+195,buah,1
+195,roti,1
+195,jagung,1
+195,kacang,1
+195,tahu,1
+195,sate,1
+195,gorengan kering,1
+195,es krim,1
+195,ubi,1
+195,luar negeri,1
+195,gorengan basah,1
+195,berkuah,5
+195,cendol,5
+195,es campur,5
+195,bubble tea,1
+195,susu,1
+195,jus buah,1
+195,soft drink,1
+195,es doger,5
+195,teh,1
+195,kopi,1
+195,air mineral,1
+195,air kelapa,1
+196,nasi goreng,5
+196,mie kuah,1
+196,nasi,5
+196,mie,1
+196,bakso,5
+196,bubur,5
+196,ayam,5
+196,kue,5
+196,buah,5
+196,roti,5
+196,jagung,1
+196,kacang,1
+196,tahu,5
+196,sate,1
+196,gorengan kering,5
+196,es krim,5
+196,ubi,1
+196,luar negeri,1
+196,gorengan basah,1
+196,berkuah,5
+196,cendol,1
+196,es campur,5
+196,bubble tea,5
+196,susu,1
+196,jus buah,5
+196,soft drink,1
+196,es doger,1
+196,teh,5
+196,kopi,1
+196,air mineral,1
+196,air kelapa,1
+197,nasi goreng,5
+197,mie kuah,1
+197,nasi,5
+197,mie,5
+197,bakso,5
+197,bubur,5
+197,ayam,5
+197,kue,5
+197,buah,1
+197,roti,1
+197,jagung,1
+197,kacang,1
+197,tahu,1
+197,sate,5
+197,gorengan kering,5
+197,es krim,1
+197,ubi,1
+197,luar negeri,1
+197,gorengan basah,1
+197,berkuah,5
+197,cendol,1
+197,es campur,1
+197,bubble tea,1
+197,susu,5
+197,jus buah,5
+197,soft drink,1
+197,es doger,1
+197,teh,5
+197,kopi,5
+197,air mineral,1
+197,air kelapa,1
+198,nasi goreng,1
+198,mie kuah,1
+198,nasi,1
+198,mie,1
+198,bakso,5
+198,bubur,5
+198,ayam,1
+198,kue,1
+198,buah,1
+198,roti,1
+198,jagung,1
+198,kacang,1
+198,tahu,1
+198,sate,5
+198,gorengan kering,1
+198,es krim,1
+198,ubi,1
+198,luar negeri,1
+198,gorengan basah,1
+198,berkuah,1
+198,cendol,1
+198,es campur,1
+198,bubble tea,1
+198,susu,5
+198,jus buah,5
+198,soft drink,1
+198,es doger,1
+198,teh,1
+198,kopi,1
+198,air mineral,1
+198,air kelapa,1
+199,nasi goreng,5
+199,mie kuah,1
+199,nasi,1
+199,mie,1
+199,bakso,5
+199,bubur,5
+199,ayam,1
+199,kue,1
+199,buah,1
+199,roti,1
+199,jagung,1
+199,kacang,1
+199,tahu,1
+199,sate,1
+199,gorengan kering,1
+199,es krim,1
+199,ubi,1
+199,luar negeri,1
+199,gorengan basah,1
+199,berkuah,1
+199,cendol,5
+199,es campur,1
+199,bubble tea,5
+199,susu,1
+199,jus buah,5
+199,soft drink,1
+199,es doger,1
+199,teh,1
+199,kopi,1
+199,air mineral,1
+199,air kelapa,1
+200,nasi goreng,1
+200,mie kuah,1
+200,nasi,1
+200,mie,1
+200,bakso,5
+200,bubur,5
+200,ayam,1
+200,kue,1
+200,buah,1
+200,roti,1
+200,jagung,1
+200,kacang,1
+200,tahu,1
+200,sate,5
+200,gorengan kering,1
+200,es krim,1
+200,ubi,1
+200,luar negeri,1
+200,gorengan basah,1
+200,berkuah,1
+200,cendol,1
+200,es campur,1
+200,bubble tea,1
+200,susu,5
+200,jus buah,5
+200,soft drink,1
+200,es doger,1
+200,teh,1
+200,kopi,1
+200,air mineral,1
+200,air kelapa,1
+204,nasi goreng,5
+204,mie kuah,1
+204,nasi,1
+204,mie,1
+204,bakso,1
+204,bubur,5
+204,ayam,1
+204,kue,1
+204,buah,5
+204,roti,1
+204,jagung,5
+204,kacang,1
+204,tahu,1
+204,sate,5
+204,gorengan kering,5
+204,es krim,1
+204,ubi,1
+204,luar negeri,1
+204,gorengan basah,1
+204,berkuah,5
+204,cendol,1
+204,es campur,5
+204,bubble tea,1
+204,susu,5
+204,jus buah,1
+204,soft drink,1
+204,es doger,1
+204,teh,5
+204,kopi,1
+204,air mineral,1
+204,air kelapa,1
+205,nasi goreng,5
+205,mie kuah,1
+205,nasi,1
+205,mie,1
+205,bakso,1
+205,bubur,5
+205,ayam,5
+205,kue,1
+205,buah,1
+205,roti,1
+205,jagung,1
+205,kacang,1
+205,tahu,1
+205,sate,1
+205,gorengan kering,1
+205,es krim,1
+205,ubi,1
+205,luar negeri,1
+205,gorengan basah,1
+205,berkuah,5
+205,cendol,1
+205,es campur,1
+205,bubble tea,1
+205,susu,1
+205,jus buah,5
+205,soft drink,1
+205,es doger,1
+205,teh,5
+205,kopi,1
+205,air mineral,1
+205,air kelapa,1
+206,nasi goreng,1
+206,mie kuah,1
+206,nasi,1
+206,mie,1
+206,bakso,5
+206,bubur,1
+206,ayam,1
+206,kue,5
+206,buah,1
+206,roti,1
+206,jagung,1
+206,kacang,1
+206,tahu,1
+206,sate,1
+206,gorengan kering,5
+206,es krim,1
+206,ubi,1
+206,luar negeri,1
+206,gorengan basah,1
+206,berkuah,1
+206,cendol,1
+206,es campur,1
+206,bubble tea,1
+206,susu,1
+206,jus buah,5
+206,soft drink,1
+206,es doger,5
+206,teh,1
+206,kopi,1
+206,air mineral,1
+206,air kelapa,1
+209,nasi goreng,5
+209,mie kuah,1
+209,nasi,1
+209,mie,1
+209,bakso,5
+209,bubur,1
+209,ayam,1
+209,kue,1
+209,buah,5
+209,roti,1
+209,jagung,1
+209,kacang,1
+209,tahu,1
+209,sate,1
+209,gorengan kering,1
+209,es krim,1
+209,ubi,1
+209,luar negeri,1
+209,gorengan basah,1
+209,berkuah,1
+209,cendol,1
+209,es campur,1
+209,bubble tea,1
+209,susu,1
+209,jus buah,5
+209,soft drink,1
+209,es doger,1
+209,teh,1
+209,kopi,1
+209,air mineral,1
+209,air kelapa,5
+210,nasi goreng,5
+210,mie kuah,1
+210,nasi,1
+210,mie,1
+210,bakso,5
+210,bubur,1
+210,ayam,5
+210,kue,1
+210,buah,5
+210,roti,5
+210,jagung,1
+210,kacang,1
+210,tahu,1
+210,sate,5
+210,gorengan kering,5
+210,es krim,1
+210,ubi,1
+210,luar negeri,1
+210,gorengan basah,1
+210,berkuah,5
+210,cendol,5
+210,es campur,1
+210,bubble tea,1
+210,susu,5
+210,jus buah,5
+210,soft drink,5
+210,es doger,1
+210,teh,1
+210,kopi,1
+210,air mineral,1
+210,air kelapa,1
+211,nasi goreng,5
+211,mie kuah,1
+211,nasi,1
+211,mie,5
+211,bakso,1
+211,bubur,1
+211,ayam,5
+211,kue,5
+211,buah,1
+211,roti,1
+211,jagung,1
+211,kacang,1
+211,tahu,1
+211,sate,1
+211,gorengan kering,1
+211,es krim,5
+211,ubi,1
+211,luar negeri,1
+211,gorengan basah,1
+211,berkuah,1
+211,cendol,1
+211,es campur,1
+211,bubble tea,5
+211,susu,5
+211,jus buah,5
+211,soft drink,5
+211,es doger,1
+211,teh,5
+211,kopi,1
+211,air mineral,1
+211,air kelapa,1
+212,nasi goreng,5
+212,mie kuah,1
+212,nasi,1
+212,mie,1
+212,bakso,5
+212,bubur,5
+212,ayam,1
+212,kue,1
+212,buah,1
+212,roti,1
+212,jagung,1
+212,kacang,1
+212,tahu,1
+212,sate,5
+212,gorengan kering,1
+212,es krim,1
+212,ubi,1
+212,luar negeri,1
+212,gorengan basah,1
+212,berkuah,5
+212,cendol,5
+212,es campur,1
+212,bubble tea,1
+212,susu,1
+212,jus buah,5
+212,soft drink,1
+212,es doger,1
+212,teh,1
+212,kopi,5
+212,air mineral,1
+212,air kelapa,1
+213,nasi goreng,1
+213,mie kuah,1
+213,nasi,1
+213,mie,1
+213,bakso,5
+213,bubur,1
+213,ayam,1
+213,kue,5
+213,buah,1
+213,roti,1
+213,jagung,1
+213,kacang,1
+213,tahu,1
+213,sate,1
+213,gorengan kering,5
+213,es krim,1
+213,ubi,1
+213,luar negeri,1
+213,gorengan basah,1
+213,berkuah,1
+213,cendol,1
+213,es campur,1
+213,bubble tea,1
+213,susu,1
+213,jus buah,5
+213,soft drink,1
+213,es doger,5
+213,teh,1
+213,kopi,1
+213,air mineral,1
+213,air kelapa,1
+215,nasi goreng,1
+215,mie kuah,1
+215,nasi,1
+215,mie,1
+215,bakso,5
+215,bubur,1
+215,ayam,1
+215,kue,1
+215,buah,1
+215,roti,1
+215,jagung,1
+215,kacang,1
+215,tahu,1
+215,sate,1
+215,gorengan kering,5
+215,es krim,1
+215,ubi,1
+215,luar negeri,1
+215,gorengan basah,1
+215,berkuah,5
+215,cendol,1
+215,es campur,5
+215,bubble tea,1
+215,susu,1
+215,jus buah,1
+215,soft drink,1
+215,es doger,5
+215,teh,1
+215,kopi,1
+215,air mineral,1
+215,air kelapa,1
